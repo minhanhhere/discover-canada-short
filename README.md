@@ -36,21 +36,9 @@
 
 ## Understanding the Oath
 
-✅ **What you swear loyalty to**
-- 👍 Loyalty is sworn to **the Sovereign** (the King or Queen), not to:
-  - A document (like the Constitution)
-  - A symbol (like the flag)
-  - A geographic country
-
-✅ **Canada’s system**
-- 👍 Canada is a **constitutional monarchy**
-- 👍 The **Sovereign represents Canada and all Canadians**
-- The idea is that:
-  - Canada is represented by the Sovereign
-  - The Sovereign represents Canada
-
-✅ **Key principle**
-- 👍 Loyalty to the Sovereign = loyalty to Canada
+- ✅ **Swear loyalty to the Sovereign** = loyalty to Canada
+- ✅ Canada is a **constitutional monarchy**
+- ✅ The **Sovereign represents Canada and all Canadians**
 
 ## Rights and Responsibilities of Citizenship
 
