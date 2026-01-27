@@ -1,5 +1,6 @@
 ---
 sidebar_position: 11
+sidebar_label: Canada’s Regions 🏞️
 ---
 
 # Canada’s Regions

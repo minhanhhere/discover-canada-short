@@ -1,5 +1,6 @@
 ---
 sidebar_position: 1
+sidebar_label: The Oath of Citizenship ✋
 ---
 # The Oath of Citizenship
 

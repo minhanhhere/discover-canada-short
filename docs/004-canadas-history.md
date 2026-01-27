@@ -1,5 +1,6 @@
 ---
 sidebar_position: 4
+sidebar_label: Canada’s History 📜
 ---
 
 # Canada’s History
@@ -175,7 +176,7 @@ sidebar_position: 4
 
 ## Dominion from Sea to Sea
 - ✅ Term **Dominion of Canada** suggested by **Sir Leonard Tilley**
-- ✅ Inspired by **Psalm 72**
+- ✅ Inspired by **Psalm 72 - "Dominion from sea to sea and from the river to the ends of the earth."**
 - ✅ Official term for ~100 years
 
 ## Expansion of the Dominion
