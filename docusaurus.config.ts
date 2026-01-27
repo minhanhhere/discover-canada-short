@@ -60,7 +60,7 @@ const config: Config = {
     navbar: {
       title: 'Discover Canada Simple',
       logo: {
-        alt: 'My Site Logo',
+        alt: 'Site Logo',
         src: 'img/logo.svg',
       },
       items: [
@@ -68,14 +68,14 @@ const config: Config = {
           type: 'docSidebar',
           sidebarId: 'tutorialSidebar',
           position: 'left',
-          label: 'Docs',
+          label: 'Learn',
         }
       ],
     },
     footer: {
       style: 'dark',
       links: [],
-      copyright: `Copyright © ${new Date().getFullYear()} My Project, Inc. Built with Docusaurus.`,
+      copyright: `Copyright © ${new Date().getFullYear()} Discover Canada Simple. Built with Docusaurus.`,
     },
     prism: {
       theme: prismThemes.github,
