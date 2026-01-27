@@ -5,8 +5,8 @@ import type * as Preset from '@docusaurus/preset-classic';
 // This runs in Node.js - Don't use client-side code here (browser APIs, JSX...)
 
 const config: Config = {
-  title: 'Discover Canada Simple',
-  // tagline: 'Dinosaurs are cool',
+  title: 'Discover Canada | Simple',
+  tagline: 'A simple, easy-to-read guide to Discover Canada—key facts, history, government, rights, and responsibilities to help you study for the Canadian citizenship test.',
   favicon: 'img/favicon.ico',
 
   // Future flags, see https://docusaurus.io/docs/api/docusaurus-config#future

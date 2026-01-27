@@ -33,8 +33,8 @@ export default function Home(): ReactNode {
   const {siteConfig} = useDocusaurusContext();
   return (
     <Layout
-      title={`Hello from ${siteConfig.title}`}
-      description="Description will go into a meta tag in <head />">
+      title={`${siteConfig.title}`}
+      description="A simple, easy-to-read guide to Discover Canada—key facts, history, government, rights, and responsibilities to help you study for the Canadian citizenship test.">
       <HomepageHeader />
       <main>
         <HomepageFeatures />
