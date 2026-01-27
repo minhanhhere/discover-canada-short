@@ -4,6 +4,8 @@ sidebar_position: 3
 
 # Who We Are
 
+[Go to the official content](https://www.canada.ca/en/immigration-refugees-citizenship/corporate/publications-manuals/discover-canada/read-online/who-are-canadians.html)
+
 ## Summary
 ✅ Canada is known as a **strong and free country**  
 👍 Canadians are proud of a **unique national identity**

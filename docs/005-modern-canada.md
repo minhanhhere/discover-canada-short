@@ -4,6 +4,8 @@ sidebar_position: 5
 
 # Modern Canada
 
+[Go to the official content](https://www.canada.ca/en/immigration-refugees-citizenship/corporate/publications-manuals/discover-canada/read-online/modern-canada.html)
+
 ## Trade and Economic Growth
 
 ✅ **Post–Second World War prosperity**

@@ -4,6 +4,8 @@ sidebar_position: 13
 
 # Memorable Quotes
 
+[Go to the official content](https://www.canada.ca/en/immigration-refugees-citizenship/corporate/publications-manuals/discover-canada/read-online/memorable-quotes.html)
+
 - 👍 Quote by **Sir Wilfrid Laurier**
   - 7th Prime Minister of Canada  
   - Term: **July 11, 1896 – October 6, 1911**

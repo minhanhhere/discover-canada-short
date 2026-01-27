@@ -4,6 +4,8 @@ sidebar_position: 10
 
 # Canada’s Economy
 
+[Go to the official content](https://www.canada.ca/en/immigration-refugees-citizenship/corporate/publications-manuals/discover-canada/read-online/canadas-economy.html)
+
 ## A Trading Nation
 
 ✅ Canada has always depended on **trade** for economic growth.  

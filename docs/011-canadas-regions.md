@@ -4,6 +4,8 @@ sidebar_position: 11
 
 # Canada’s Regions
 
+[Go to the official content](https://www.canada.ca/en/immigration-refugees-citizenship/corporate/publications-manuals/discover-canada/read-online/canadas-regions.html)
+
 ## Canada facts
 
 - ✅ Second largest country in the world  

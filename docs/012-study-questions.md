@@ -4,6 +4,8 @@ sidebar_position: 12
 
 # Study Questions
 
+[Go to the official content](https://www.canada.ca/en/immigration-refugees-citizenship/corporate/publications-manuals/discover-canada/read-online/study-questions.html)
+
 - What are three responsibilities of citizenship?
     * Obeying the law, taking responsibility for oneself and one’s family, serving on a jury.
 - What is the meaning of the Remembrance Day poppy?

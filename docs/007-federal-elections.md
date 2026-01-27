@@ -4,6 +4,8 @@ sidebar_position: 7
 
 # Federal Elections
 
+[Go to the official content](https://www.canada.ca/en/immigration-refugees-citizenship/corporate/publications-manuals/discover-canada/read-online/federal-elections.html)
+
 ## Summary
 
 - 👍 Canadians vote to choose people to represent them in the **House of Commons**

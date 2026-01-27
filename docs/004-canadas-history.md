@@ -4,6 +4,8 @@ sidebar_position: 4
 
 # Canada’s History
 
+[Go to the official content](https://www.canada.ca/en/immigration-refugees-citizenship/corporate/publications-manuals/discover-canada/read-online/canadas-history.html)
+
 ## Aboriginal Peoples
 - 👍 When Europeans arrived, **all regions of Canada were already inhabited**
 - ✅ Europeans called Indigenous peoples “Indians” (mistaken belief they reached East Indies)

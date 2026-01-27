@@ -4,6 +4,8 @@ sidebar_position: 6
 
 # How Canadians Govern Themselves
 
+[Go to the official content](https://www.canada.ca/en/immigration-refugees-citizenship/corporate/publications-manuals/discover-canada/read-online/how-canadians-govern-themselves.html)
+
 ## Summary
 
 👍 **Canada’s system of government has three key features:**

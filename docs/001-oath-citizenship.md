@@ -3,6 +3,8 @@ sidebar_position: 1
 ---
 # The Oath of Citizenship
 
+[Go to the official content](https://www.canada.ca/en/immigration-refugees-citizenship/corporate/publications-manuals/discover-canada/read-online/oath-citizenship.html)
+
 > I swear (or affirm)  
 > That I will be faithful  
 > And bear true allegiance  
