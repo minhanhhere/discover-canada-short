@@ -90,9 +90,14 @@ const config: Config = {
       items: [
         {
           type: "docSidebar",
-          sidebarId: "tutorialSidebar",
+          sidebarId: "learnSidebar",
           position: "left",
           label: "Learn",
+        },
+        {
+          label: "Practice",
+          to: "/quiz",
+          position: "left",
         },
         // External link example
         // {
