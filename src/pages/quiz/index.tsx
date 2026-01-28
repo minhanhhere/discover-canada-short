@@ -19,7 +19,10 @@ export default function QuizPage() {
       }),
   );
   return (
-    <Layout title={`${siteConfig.title} | Quiz`}>
+    <Layout
+      title={`Quiz | ${siteConfig.title}`}
+      description="Practice for the Canadian Citizenship test. Review the study guide, then take a quiz to check your knowledge."
+    >
       <QueryClientProvider client={client}>
         <main className="container padding-vert--lg" style={{ display: 'flex', flexDirection: 'column', alignItems: 'center' }}>
           <h1>Practice Quiz</h1>
