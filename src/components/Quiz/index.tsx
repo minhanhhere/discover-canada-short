@@ -130,17 +130,7 @@ export default function Quiz() {
   return (
     <div>
       <div className={`row row--no-gutters margin-bottom--sm ${styles.quizHeader}`}>
-        <div className="margin-bottom--lg">
-          <div className={styles.questionMap}>
-            <QuizMap
-              questionCount={questions.length}
-              activeIndex={questionIndex}
-              statuses={questionStatuses}
-              buttonClassName={styles.questionMapButton}
-              onGoToQuestion={goToQuestion}
-            />
-          </div>
-        </div>
+
         <div className="col col--auto">
           <span className="badge badge--info margin-right--sm">
             Question {questionIndex + 1}/{questions.length}
@@ -191,8 +181,8 @@ export default function Quiz() {
       </div>
 
       <div className="margin-top--lg">
-        <div className={`row ${styles.actionsRow}`}>
-          <div className={`row col ${styles.spaceBetween}`}>
+        <div>
+          <div className={`row padding-horiz--md margin-bottom--lg ${styles.spaceBetween}`}>
             <button
               type="button"
               className="button button--secondary"
@@ -208,13 +198,28 @@ export default function Quiz() {
               Next question
             </button>
           </div>
-          <div className="col col--auto">
+
+          <div className="margin-bottom--lg">
+            <div className={styles.questionMap}>
+              <QuizMap
+                questionCount={questions.length}
+                activeIndex={questionIndex}
+                statuses={questionStatuses}
+                buttonClassName={styles.questionMapButton}
+                onGoToQuestion={goToQuestion}
+              />
+            </div>
+          </div>
+
+          <div>
             <button type="button" className="button button--block button--danger" onClick={startQuiz}>
               Restart (new random quiz)
             </button>
           </div>
         </div>
       </div>
+
+
     </div>
   );
 }

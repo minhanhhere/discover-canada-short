@@ -18,10 +18,6 @@
   width: 3.5rem;
 }
 
-.actionsRow {
-  row-gap: 0.5rem;
-}
-
 .columnGap {
   column-gap: var(--ifm-spacing-horizontal);
 }
