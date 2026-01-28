@@ -58,6 +58,15 @@ export default function Quiz() {
     });
   }, [questions, answerHistory]);
 
+  const correctCount = useMemo(() => {
+    return Object.entries(answerHistory).reduce((count, [qIdxStr, aIdx]) => {
+      const qIdx = Number(qIdxStr);
+      const q = questions[qIdx];
+      if (!q || typeof aIdx !== 'number') return count;
+      return q.answer?.[aIdx]?.isCorrect ? count + 1 : count;
+    }, 0);
+  }, [answerHistory, questions]);
+
   function goToQuestion(targetIndex: number) {
     if (targetIndex < 0 || targetIndex >= questions.length) return;
     setQuestionIndex(targetIndex);
@@ -188,14 +197,17 @@ export default function Quiz() {
               className="button button--secondary"
               onClick={prevQuestion}
               disabled={questionIndex === 0}>
-              Previous question
+              Previous
             </button>
+            <div>
+              <span className="badge badge--success">Correct: {correctCount}/{questions.length}</span>
+            </div>
             <button
               type="button"
               className="button button--primary"
               onClick={nextQuestion}
               disabled={questionIndex >= questions.length - 1}>
-              Next question
+              Next
             </button>
           </div>
 
