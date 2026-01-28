@@ -1,0 +1,57 @@
+/* Only keep styles that Infima doesn't provide out of the box (correct/incorrect reveal state + a few layout helpers). */
+
+.quizHeader {
+  align-items: baseline;
+}
+
+.preWrap {
+  white-space: pre-wrap;
+}
+
+.questionMap {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.5rem;
+}
+
+.questionMapButton {
+  width: 3.5rem;
+}
+
+.actionsRow {
+  row-gap: 0.5rem;
+}
+
+.columnGap {
+  column-gap: var(--ifm-spacing-horizontal);
+}
+
+.spaceBetween {
+  justify-content: space-between;
+}
+
+.answerButton {
+  white-space: normal;
+}
+
+.answerButtonCorrect {
+  border-color: var(--ifm-color-success);
+  background-color: var(--ifm-color-success);
+  color: var(--ifm-font-color-base-inverse);
+}
+
+.answerButtonWrong {
+  border-color: var(--ifm-color-danger);
+  background-color: var(--ifm-color-danger);
+  color: var(--ifm-font-color-base-inverse);
+}
+
+.correctText {
+  color: var(--ifm-color-success);
+  margin-bottom: 0;
+}
+
+.incorrectText {
+  color: var(--ifm-color-danger);
+  margin-bottom: 0;
+}
