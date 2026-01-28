@@ -44,11 +44,30 @@ const FeatureList: FeatureItem[] = [
       </>
     ),
   },
+  {
+    title: 'Content Search',
+    img: 'img/feature_search.svg',
+    description: (
+      <>
+        Quickly find the information you need with our powerful content search feature.
+      </>
+    ),
+  },
+  {
+    title: 'Mobile-Friendly',
+    img: 'img/feature_responsive.svg', // reuse an existing icon you already have
+    description: (
+      <>
+        Read and search comfortably on phone, tablet, or desktop with a responsive
+        layout that adapts to any screen size.
+      </>
+    ),
+  },
 ];
 
 function Feature({title, img, description}: FeatureItem) {
   return (
-    <div className={clsx('col col--4')}>
+    <div className={clsx('col col--4 margin-top--lg')}>
       <div className="text--center">
         <img alt={title} src={img} className={styles.featureSvg} />
         {/* <Svg className={styles.featureSvg} role="img" /> */}
@@ -65,7 +84,7 @@ export default function HomepageFeatures(): ReactNode {
   return (
     <section className={styles.features}>
       <div className="container">
-        <div className="row">
+        <div className="row justify-content--center">
           {FeatureList.map((props, idx) => (
             <Feature key={idx} {...props} />
           ))}

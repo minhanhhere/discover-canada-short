@@ -1,13 +1,14 @@
-import {themes as prismThemes} from 'prism-react-renderer';
-import type {Config} from '@docusaurus/types';
-import type * as Preset from '@docusaurus/preset-classic';
+import { themes as prismThemes } from "prism-react-renderer";
+import type { Config } from "@docusaurus/types";
+import type * as Preset from "@docusaurus/preset-classic";
 
 // This runs in Node.js - Don't use client-side code here (browser APIs, JSX...)
 
 const config: Config = {
-  title: 'Discover Canada | Simple',
-  tagline: 'A simple, easy-to-read guide to Discover Canada—key facts, history, government, rights, and responsibilities to help you study for the Canadian citizenship test.',
-  favicon: 'img/favicon.ico',
+  title: "Discover Canada | Simple",
+  tagline:
+    "A simple, easy-to-read guide to Discover Canada—key facts, history, government, rights, and responsibilities to help you study for the Canadian citizenship test.",
+  favicon: "img/favicon.ico",
 
   // Future flags, see https://docusaurus.io/docs/api/docusaurus-config#future
   future: {
@@ -15,36 +16,36 @@ const config: Config = {
   },
 
   // Set the production url of your site here
-  url: 'https://minhanhhere.github.io',
+  url: "https://minhanhhere.github.io",
   // Set the /<baseUrl>/ pathname under which your site is served
   // For GitHub pages deployment, it is often '/<projectName>/'
-  baseUrl: '/discover-canada-short/',
+  baseUrl: "/discover-canada-short/",
 
   // GitHub pages deployment config.
   // If you aren't using GitHub pages, you don't need these.
-  organizationName: 'minhanhhere', // Usually your GitHub org/user name.
-  projectName: 'discover-canada-short', // Usually your repo name.
+  organizationName: "minhanhhere", // Usually your GitHub org/user name.
+  projectName: "discover-canada-short", // Usually your repo name.
 
-  onBrokenLinks: 'throw',
+  onBrokenLinks: "throw",
 
   // Even if you don't use internationalization, you can use this field to set
   // useful metadata like html lang. For example, if your site is Chinese, you
   // may want to replace "en" with "zh-Hans".
   i18n: {
-    defaultLocale: 'en',
-    locales: ['en'],
+    defaultLocale: "en",
+    locales: ["en"],
   },
 
   presets: [
     [
-      'classic',
+      "classic",
       {
         docs: {
-          sidebarPath: './sidebars.ts',
+          sidebarPath: "./sidebars.ts",
           // Please change this to your repo.
           // Remove this to remove the "edit this page" links.
           editUrl:
-            'https://github.com/minhanhhere/discover-canada-short/tree/main/',
+            "https://github.com/minhanhhere/discover-canada-short/tree/main/",
         },
         blog: false,
       } satisfies Preset.Options,
@@ -56,7 +57,7 @@ const config: Config = {
     [
       require.resolve("@easyops-cn/docusaurus-search-local"),
       /** @type {import("@easyops-cn/docusaurus-search-local").PluginOptions} */
-      ({
+      {
         // ... Your options.
         // `hashed` is recommended as long-term-cache of index file is possible.
         hashed: true,
@@ -70,33 +71,86 @@ const config: Config = {
 
         // If you're using `noIndex: true`, set `forceIgnoreNoIndex` to enable local index:
         // forceIgnoreNoIndex: true,
-      }),
+      },
     ],
   ],
 
   themeConfig: {
     // Replace with your project's social card
-    image: 'img/docusaurus-social-card.jpg',
+    image: "img/docusaurus-social-card.jpg",
     colorMode: {
       respectPrefersColorScheme: true,
     },
     navbar: {
-      title: 'Discover Canada Simple',
+      title: "Discover Canada Simple",
       logo: {
-        alt: 'Site Logo',
-        src: 'img/logo.svg',
+        alt: "Site Logo",
+        src: "img/logo.svg",
       },
       items: [
         {
-          type: 'docSidebar',
-          sidebarId: 'tutorialSidebar',
-          position: 'left',
-          label: 'Learn',
-        }
+          type: "docSidebar",
+          sidebarId: "tutorialSidebar",
+          position: "left",
+          label: "Learn",
+        },
+        // External link example
+        // {
+        //   href: "https://github.com/minhanhhere/discover-canada-short",
+        //   label: "GitHub",
+        //   position: "right",
+        // },
+        // Multi-level external links
+        {
+          type: "dropdown",
+          label: "Download",
+          position: "right",
+          items: [
+            {
+              label: "Discover Canada (PDF)",
+              href: "https://www.canada.ca/content/dam/ircc/migration/ircc/english/pdf/pub/discover.pdf",
+            },
+            {
+              label: "Discover Canada | Large-Print (PDF)",
+              href: "https://www.canada.ca/content/dam/ircc/migration/ircc/english/pdf/pub/discover-large.pdf",
+            },
+            {
+              label: "Discover Canada | EBook (ePub)",
+              href: "https://www.canada.ca/content/dam/ircc/documents/epub/en/eng-epub-discover-canada.epub",
+            },
+          ],
+        },
+        {
+          type: "dropdown",
+          label: "Useful Resources",
+          position: "right",
+          items: [
+            {
+              label: "The Canadian Experience",
+              href: "https://thecanadianexperience.com/",
+            },
+            {
+              label: "Canadian Citizenship Practice Tests",
+              href: "https://www.apnatoronto.com/canadian-citizenship-test-practice/",
+            },
+            {
+              label: "Free Simulation Test",
+              href: "https://www.citizenshipsupport.ca/free-simulation-test/",
+            },
+            {
+              label: "Citizenship Test Prep App (iOS)",
+              href: "https://apps.apple.com/app/id6670188387",
+            },
+            {
+              label: "Be Citizen (Paid)",
+              href: "https://www.becitizen.ca/",
+            },
+          ],
+        },
       ],
     },
     footer: {
-      style: 'dark',
+      style: "dark",
       links: [],
       copyright: `Copyright © ${new Date().getFullYear()} Discover Canada Simple. Built with Docusaurus.`,
     },
