@@ -29,7 +29,7 @@ export default function QuizIntro({ dataSetLength, onStart }: QuizIntroProps) {
         <div className={`margin-top--md ${styles.quizIntroGrid}`}>
           <button
             type="button"
-            className={`button button--block button--primary ${styles.quizIntroGridPrimary}`}
+            className={`button button--lg button--block button--primary ${styles.quizIntroGridPrimary}`}
             onClick={() => onStart()}
           >
             Start Random Quiz
@@ -39,7 +39,7 @@ export default function QuizIntro({ dataSetLength, onStart }: QuizIntroProps) {
             <button
               key={i}
               type="button"
-              className="button button--block button--secondary"
+              className="button button--lg button--block button--secondary"
               onClick={() => onStart(i)}
             >
               Practice Quiz {i + 1}
