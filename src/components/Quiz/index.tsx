@@ -168,7 +168,7 @@ export default function Quiz() {
           const shouldHighlightWrong = reveal && isSelected && !ans.isCorrect;
 
           const className =
-            `button button--block margin-bottom--sm ${styles.answerButton} ` +
+            `button button--block button--lg margin-bottom--sm ${styles.answerButton} ` +
             (reveal ? 'button--secondary' : 'button--outline button--primary') +
             (shouldHighlightCorrect ? ` ${styles.answerButtonCorrect}` : '') +
             (shouldHighlightWrong ? ` ${styles.answerButtonWrong}` : '');

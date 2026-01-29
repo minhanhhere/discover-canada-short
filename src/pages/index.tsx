@@ -23,6 +23,11 @@ function HomepageHeader() {
             to="/docs/oath-citizenship">
             Learn Now
           </Link>
+          <Link
+            className="button button--info button--lg"
+            to="/quiz">
+            Practice Quiz
+          </Link>
         </div>
       </div>
     </header>

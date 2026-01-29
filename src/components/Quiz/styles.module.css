@@ -15,7 +15,9 @@
 }
 
 .questionMapButton {
-  width: 3.5rem;
+  width: 3.1rem;
+  padding-left: 0;
+  padding-right: 0;
 }
 
 .columnGap {
