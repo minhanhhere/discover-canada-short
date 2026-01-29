@@ -75,10 +75,10 @@ export default function Quiz() {
     setSelectedAnswerIndex(typeof restored === 'number' ? restored : null);
   }
 
-  function startQuiz() {
+  function startQuiz(idx?: number) {
     if (!quizData || quizData.length === 0) return;
 
-    setQuizSetIndex(pickRandomArrayIndex(quizData));
+    setQuizSetIndex(idx ?? pickRandomArrayIndex(quizData));
     setQuestionIndex(0);
     setSelectedAnswerIndex(null);
     setAnswerHistory({});
@@ -133,7 +133,7 @@ export default function Quiz() {
   }
 
   if (quizSetIndex === null || !currentQuestion) {
-    return <QuizIntro onStart={startQuiz} />;
+    return <QuizIntro dataSetLength={quizData.length} onStart={startQuiz} />;
   }
 
   return (
@@ -224,8 +224,8 @@ export default function Quiz() {
           </div>
 
           <div>
-            <button type="button" className="button button--block button--danger" onClick={startQuiz}>
-              Restart (new random quiz)
+            <button type="button" className="button button--block button--danger" onClick={() => setQuizSetIndex(null)}>
+              Back to Quiz List
             </button>
           </div>
         </div>
