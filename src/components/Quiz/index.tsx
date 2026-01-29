@@ -132,6 +132,16 @@ export default function Quiz() {
     setSelectedAnswerIndex(typeof restored === 'number' ? restored : null);
   }
 
+  function resetQuizProgress() {
+    setQuizProgress((prev) => {
+      const newCompleted = prev.completed.filter((idx) => idx !== quizSetIndex);
+      const newStarted = prev.started.filter((idx) => idx !== quizSetIndex);
+      localStorage.setItem("quizProgress", JSON.stringify({ started: newStarted, completed: newCompleted }));
+      return { started: newStarted, completed: newCompleted };
+    });
+    setQuizSetIndex(null);
+  }
+
   if (isLoading) {
     return <div>Loading quiz...</div>;
   }
@@ -251,6 +261,11 @@ export default function Quiz() {
             </div>
           </div>
 
+          <div className="margin-bottom--sm">
+            <button type="button" className="button button--block button--warning" onClick={() => resetQuizProgress()}>
+              Reset Quiz Progress
+            </button>
+          </div>
           <div>
             <button type="button" className="button button--block button--danger" onClick={() => setQuizSetIndex(null)}>
               Back to Quiz List
@@ -258,8 +273,6 @@ export default function Quiz() {
           </div>
         </div>
       </div>
-
-
     </div>
   );
 }
