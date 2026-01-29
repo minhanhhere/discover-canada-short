@@ -170,7 +170,7 @@ export default function Quiz() {
   return (
     <div>
       <div className={`row row--no-gutters margin-bottom--sm ${styles.quizHeader}`}>
-
+        <div className="col col--auto text--center">Quiz {quizSetIndex + 1}</div>
         <div className="col col--auto">
           <span className="badge badge--info margin-right--sm">
             Question {questionIndex + 1}/{questions.length}
