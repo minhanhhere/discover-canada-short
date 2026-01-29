@@ -139,6 +139,14 @@ const config: Config = {
               href: "https://www.apnatoronto.com/canadian-citizenship-test-practice/",
             },
             {
+              label: "Citizenship Counts",
+              href: "https://citizenshipcounts.ca/",
+            },
+            {
+              label: "Public Library - Citizenship Questions",
+              href: "https://www.yourlibrary.ca/citizenship-test-answer-keys/"
+            },
+            {
               label: "Free Simulation Test",
               href: "https://www.citizenshipsupport.ca/free-simulation-test/",
             },
