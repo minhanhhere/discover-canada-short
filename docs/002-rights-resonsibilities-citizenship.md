@@ -1,6 +1,6 @@
 ---
 sidebar_position: 2
-sidebar_label: Rights and Responsibilities of Citizenship 🏛️
+sidebar_label: Rights and Responsibilities 🏛️
 ---
 
 # Rights and Responsibilities of Citizenship

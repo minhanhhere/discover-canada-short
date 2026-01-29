@@ -1,6 +1,6 @@
 ---
 sidebar_position: 6
-sidebar_label: How Canadians Govern Themselves 👑
+sidebar_label: Government System 👑
 ---
 
 # How Canadians Govern Themselves
