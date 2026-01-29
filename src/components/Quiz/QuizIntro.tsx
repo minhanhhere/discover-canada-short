@@ -1,13 +1,15 @@
 import React from "react";
 import Link from "@docusaurus/Link";
 import styles from "./styles.module.css";
+import { QuizProgress } from "./QuizProgress";
 
 type QuizIntroProps = {
   dataSetLength: number;
   onStart: (idx?: number) => void;
+  quizProgress: QuizProgress;
 };
-
-export default function QuizIntro({ dataSetLength, onStart }: QuizIntroProps) {
+export default function QuizIntro({ dataSetLength, onStart, quizProgress }: QuizIntroProps) {
+  
   return (
     <div>
       <p className="margin-bottom--md">
@@ -35,16 +37,20 @@ export default function QuizIntro({ dataSetLength, onStart }: QuizIntroProps) {
             Start Random Quiz
           </button>
 
-          {Array.from({ length: dataSetLength }, (_, i) => (
-            <button
-              key={i}
-              type="button"
-              className="button button--lg button--block button--secondary padding-horiz--none"
-              onClick={() => onStart(i)}
-            >
-              Practice Quiz {i + 1}
-            </button>
-          ))}
+          {Array.from({ length: dataSetLength }, (_, i) => {
+            const isStarted = quizProgress.started.includes(i);
+            const isCompleted = quizProgress.completed.includes(i);
+            return (
+              <button
+                key={i}
+                type="button"
+                className={`button button--lg button--block button--secondary padding-horiz--none ${isStarted ? "" : "button--outline"}`}
+                onClick={() => onStart(i)}
+              >
+                Quiz {i + 1}{isCompleted ? " ✅" : ""}
+              </button>
+            );
+          })}
         </div>
       </div>
     </div>

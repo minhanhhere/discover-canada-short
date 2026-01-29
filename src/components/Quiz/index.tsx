@@ -1,9 +1,10 @@
-import React, { useMemo, useState } from 'react';
+import React, { useEffect, useMemo, useState } from 'react';
 import { QuizQuestion, useFetchPracticeQuizData } from './state/useFetchPracticeQuizData';
 import styles from './styles.module.css';
 import QuizIntro from './QuizIntro';
 import QuizError from './QuizError';
 import QuizMap from './QuizMap';
+import { QuizProgress } from './QuizProgress';
 
 function pickRandomArrayIndex(array: any[]) {
   return Math.floor(Math.random() * array.length);
@@ -28,6 +29,13 @@ function normalizeQuizSet(set: QuizQuestion[] | undefined | null): QuizQuestion[
 }
 
 export default function Quiz() {
+  const [quizProgress, setQuizProgress] = useState<QuizProgress>({ started: [], completed: [] });
+
+  useEffect(() => {
+    const raw = localStorage.getItem("quizProgress") ?? JSON.stringify({ started: [], completed: [] });
+    setQuizProgress(JSON.parse(raw) as QuizProgress);
+  }, []);
+
   const { data: quizData, isLoading, isError, error, refetch } = useFetchPracticeQuizData();
 
   // The selected quiz set (one inner array from QuizData). Null means "not started".
@@ -78,7 +86,17 @@ export default function Quiz() {
   function startQuiz(idx?: number) {
     if (!quizData || quizData.length === 0) return;
 
-    setQuizSetIndex(idx ?? pickRandomArrayIndex(quizData));
+    const quizIdx = idx ?? pickRandomArrayIndex(quizData);
+
+    setQuizProgress((prev) => {
+      const newStarted = prev.started.includes(quizIdx) ? prev.started : [...prev.started, quizIdx];
+      const newProgress = { started: newStarted, completed: prev.completed };
+      localStorage.setItem("quizProgress", JSON.stringify(newProgress));
+
+      return newProgress;
+    });
+
+    setQuizSetIndex(quizIdx);
     setQuestionIndex(0);
     setSelectedAnswerIndex(null);
     setAnswerHistory({});
@@ -133,7 +151,10 @@ export default function Quiz() {
   }
 
   if (quizSetIndex === null || !currentQuestion) {
-    return <QuizIntro dataSetLength={quizData.length} onStart={startQuiz} />;
+    return <QuizIntro
+      quizProgress={quizProgress}
+      dataSetLength={quizData.length}
+      onStart={startQuiz} />;
   }
 
   return (
@@ -181,6 +202,13 @@ export default function Quiz() {
               disabled={reveal}
               onClick={() => {
                 setSelectedAnswerIndex(idx);
+                if (Object.keys(answerHistory).length + 1 === questions.length) {
+                  setQuizProgress((prev) => {
+                    const newCompleted = prev.completed.includes(quizSetIndex) ? prev.completed : [...prev.completed, quizSetIndex];
+                    localStorage.setItem("quizProgress", JSON.stringify({ ...prev, completed: newCompleted }));
+                    return { ...prev, completed: newCompleted };
+                  });
+                }
                 setAnswerHistory((prev) => ({ ...prev, [questionIndex]: idx }));
               }}>
               {ans.text}
