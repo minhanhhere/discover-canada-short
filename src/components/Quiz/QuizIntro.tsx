@@ -47,7 +47,7 @@ export default function QuizIntro({ dataSetLength, onStart, quizProgress }: Quiz
                 className={`button button--lg button--block button--secondary padding-horiz--none ${isStarted ? "" : "button--outline"}`}
                 onClick={() => onStart(i)}
               >
-                Quiz {i + 1}{isCompleted ? " ✅" : ""}
+                Quiz {i + 1}{isCompleted ? ` ✅${quizProgress.scores[i]}` : ""}
               </button>
             );
           })}

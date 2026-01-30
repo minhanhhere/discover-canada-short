@@ -1,4 +1,4 @@
-import React, { useEffect, useMemo, useState } from 'react';
+import React, { use, useEffect, useMemo, useState } from 'react';
 import { QuizQuestion, useFetchPracticeQuizData } from './state/useFetchPracticeQuizData';
 import styles from './styles.module.css';
 import QuizIntro from './QuizIntro';
@@ -29,11 +29,11 @@ function normalizeQuizSet(set: QuizQuestion[] | undefined | null): QuizQuestion[
 }
 
 export default function Quiz() {
-  const [quizProgress, setQuizProgress] = useState<QuizProgress>({ started: [], completed: [] });
+  const [quizProgress, setQuizProgress] = useState<QuizProgress>({ started: [], completed: [], scores: {} });
 
   useEffect(() => {
-    const raw = localStorage.getItem("quizProgress") ?? JSON.stringify({ started: [], completed: [] });
-    setQuizProgress(JSON.parse(raw) as QuizProgress);
+    const raw = localStorage.getItem("quizProgress") ?? JSON.stringify({ started: [], completed: [], scores: {} });
+    setQuizProgress({scores: {}, ...JSON.parse(raw)} as QuizProgress);
   }, []);
 
   const { data: quizData, isLoading, isError, error, refetch } = useFetchPracticeQuizData();
@@ -90,7 +90,7 @@ export default function Quiz() {
 
     setQuizProgress((prev) => {
       const newStarted = prev.started.includes(quizIdx) ? prev.started : [...prev.started, quizIdx];
-      const newProgress = { started: newStarted, completed: prev.completed };
+      const newProgress = { ...prev, started: newStarted };
       localStorage.setItem("quizProgress", JSON.stringify(newProgress));
 
       return newProgress;
@@ -136,11 +136,24 @@ export default function Quiz() {
     setQuizProgress((prev) => {
       const newCompleted = prev.completed.filter((idx) => idx !== quizSetIndex);
       const newStarted = prev.started.filter((idx) => idx !== quizSetIndex);
-      localStorage.setItem("quizProgress", JSON.stringify({ started: newStarted, completed: newCompleted }));
-      return { started: newStarted, completed: newCompleted };
+      const scores = { ...prev.scores, [quizSetIndex]: undefined };
+      localStorage.setItem("quizProgress", JSON.stringify({ started: newStarted, completed: newCompleted, scores }));
+      return { started: newStarted, completed: newCompleted, scores };
     });
     setQuizSetIndex(null);
   }
+
+  // complete quiz when all questions have been answered
+  useEffect(() => {
+    if (Object.keys(answerHistory).length === questions.length) {
+      setQuizProgress((prev) => {
+        const newCompleted = prev.completed.includes(quizSetIndex) ? prev.completed : [...prev.completed, quizSetIndex];
+        const scores = { ...prev.scores, [quizSetIndex]: `${correctCount}/${questions.length}` };
+        localStorage.setItem("quizProgress", JSON.stringify({ ...prev, completed: newCompleted, scores }));
+        return { ...prev, completed: newCompleted, scores };
+      });
+    }
+  }, [answerHistory, correctCount, questions.length]);
 
   if (isLoading) {
     return <div>Loading quiz...</div>;
@@ -190,8 +203,6 @@ export default function Quiz() {
         </div>
       </div>
 
-
-
       <div className="margin-bottom--md">
         {currentQuestion.answer.map((ans, idx) => {
           const isSelected = selectedAnswerIndex === idx;
@@ -212,13 +223,6 @@ export default function Quiz() {
               disabled={reveal}
               onClick={() => {
                 setSelectedAnswerIndex(idx);
-                if (Object.keys(answerHistory).length + 1 === questions.length) {
-                  setQuizProgress((prev) => {
-                    const newCompleted = prev.completed.includes(quizSetIndex) ? prev.completed : [...prev.completed, quizSetIndex];
-                    localStorage.setItem("quizProgress", JSON.stringify({ ...prev, completed: newCompleted }));
-                    return { ...prev, completed: newCompleted };
-                  });
-                }
                 setAnswerHistory((prev) => ({ ...prev, [questionIndex]: idx }));
               }}>
               {ans.text}
@@ -263,7 +267,7 @@ export default function Quiz() {
 
           <div className="margin-bottom--sm">
             <button type="button" className="button button--block button--warning" onClick={() => resetQuizProgress()}>
-              Reset Quiz Progress
+              {quizProgress.scores[quizSetIndex] ? `Last result: ${quizProgress.scores[quizSetIndex]} | ` : ''}Reset Quiz Progress
             </button>
           </div>
           <div>
