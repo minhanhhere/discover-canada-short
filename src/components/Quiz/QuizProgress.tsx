@@ -1,5 +1,6 @@
 export interface QuizProgress {
-  started: number[];
-  completed: number[];
-  scores: Record<number, string | undefined>;
+  [key: number]: {
+    started: boolean;
+    score: string | undefined;
+  };
 }

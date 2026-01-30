@@ -1,10 +1,10 @@
-import React, { use, useEffect, useMemo, useState } from 'react';
+import React, { useEffect, useMemo, useState } from 'react';
 import { QuizQuestion, useFetchPracticeQuizData } from './state/useFetchPracticeQuizData';
 import styles from './styles.module.css';
 import QuizIntro from './QuizIntro';
 import QuizError from './QuizError';
 import QuizMap from './QuizMap';
-import { QuizProgress } from './QuizProgress';
+import { useQuizProgressStore } from './state/quizProgressStore';
 
 function pickRandomArrayIndex(array: any[]) {
   return Math.floor(Math.random() * array.length);
@@ -29,12 +29,10 @@ function normalizeQuizSet(set: QuizQuestion[] | undefined | null): QuizQuestion[
 }
 
 export default function Quiz() {
-  const [quizProgress, setQuizProgress] = useState<QuizProgress>({ started: [], completed: [], scores: {} });
-
-  useEffect(() => {
-    const raw = localStorage.getItem("quizProgress") ?? JSON.stringify({ started: [], completed: [], scores: {} });
-    setQuizProgress({scores: {}, ...JSON.parse(raw)} as QuizProgress);
-  }, []);
+  const quizProgress = useQuizProgressStore((s) => s.quizProgress);
+  const markQuizStarted = useQuizProgressStore((s) => s.startQuiz);
+  const completeQuiz = useQuizProgressStore((s) => s.completeQuiz);
+  const resetQuiz = useQuizProgressStore((s) => s.resetQuiz);
 
   const { data: quizData, isLoading, isError, error, refetch } = useFetchPracticeQuizData();
 
@@ -88,14 +86,7 @@ export default function Quiz() {
 
     const quizIdx = idx ?? pickRandomArrayIndex(quizData);
 
-    setQuizProgress((prev) => {
-      const newStarted = prev.started.includes(quizIdx) ? prev.started : [...prev.started, quizIdx];
-      const newProgress = { ...prev, started: newStarted };
-      localStorage.setItem("quizProgress", JSON.stringify(newProgress));
-
-      return newProgress;
-    });
-
+    markQuizStarted(quizIdx);
     setQuizSetIndex(quizIdx);
     setQuestionIndex(0);
     setSelectedAnswerIndex(null);
@@ -109,7 +100,7 @@ export default function Quiz() {
     const next = questionIndex + 1;
     if (next >= questions.length) {
       // End reached: restart by picking a fresh random set.
-      startQuiz();
+      // startQuiz();
       return;
     }
 
@@ -133,27 +124,18 @@ export default function Quiz() {
   }
 
   function resetQuizProgress() {
-    setQuizProgress((prev) => {
-      const newCompleted = prev.completed.filter((idx) => idx !== quizSetIndex);
-      const newStarted = prev.started.filter((idx) => idx !== quizSetIndex);
-      const scores = { ...prev.scores, [quizSetIndex]: undefined };
-      localStorage.setItem("quizProgress", JSON.stringify({ started: newStarted, completed: newCompleted, scores }));
-      return { started: newStarted, completed: newCompleted, scores };
-    });
+    resetQuiz(quizSetIndex);
     setQuizSetIndex(null);
   }
 
   // complete quiz when all questions have been answered
   useEffect(() => {
     if (Object.keys(answerHistory).length === questions.length) {
-      setQuizProgress((prev) => {
-        const newCompleted = prev.completed.includes(quizSetIndex) ? prev.completed : [...prev.completed, quizSetIndex];
-        const scores = { ...prev.scores, [quizSetIndex]: `${correctCount}/${questions.length}` };
-        localStorage.setItem("quizProgress", JSON.stringify({ ...prev, completed: newCompleted, scores }));
-        return { ...prev, completed: newCompleted, scores };
-      });
+      if (typeof quizSetIndex === 'number') {
+        completeQuiz(quizSetIndex, `${correctCount}/${questions.length}`);
+      }
     }
-  }, [answerHistory, correctCount, questions.length]);
+  }, [answerHistory, correctCount, questions.length, quizSetIndex]);
 
   if (isLoading) {
     return <div>Loading quiz...</div>;
@@ -267,7 +249,7 @@ export default function Quiz() {
 
           <div className="margin-bottom--sm">
             <button type="button" className="button button--block button--warning" onClick={() => resetQuizProgress()}>
-              {quizProgress.scores[quizSetIndex] ? `Last result: ${quizProgress.scores[quizSetIndex]} | ` : ''}Reset Quiz Progress
+              {quizProgress[quizSetIndex]?.score ? `Last result: ${quizProgress[quizSetIndex]?.score} | ` : ''}Reset Quiz Progress
             </button>
           </div>
           <div>
