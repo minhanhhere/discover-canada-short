@@ -1,15 +1,18 @@
 import React from "react";
 import Link from "@docusaurus/Link";
 import styles from "./styles.module.css";
-import { QuizProgress } from "./QuizProgress";
+import { useQuizProgressStore } from "./state/quizProgressStore";
 
 type QuizIntroProps = {
   dataSetLength: number;
   onStart: (idx?: number) => void;
-  quizProgress: QuizProgress;
 };
-export default function QuizIntro({ dataSetLength, onStart, quizProgress }: QuizIntroProps) {
-  
+export default function QuizIntro({
+  dataSetLength,
+  onStart,
+}: QuizIntroProps) {
+  const quizProgress = useQuizProgressStore((s) => s.quizProgress);
+
   return (
     <div>
       <p className="margin-bottom--md">
@@ -47,7 +50,8 @@ export default function QuizIntro({ dataSetLength, onStart, quizProgress }: Quiz
                 className={`button button--lg button--block button--secondary padding-horiz--none ${isStarted ? "" : "button--outline"}`}
                 onClick={() => onStart(i)}
               >
-                Quiz {i + 1}{score ? ` ✅${score}` : ""}
+                Quiz {i + 1}
+                {score ? ` ✅${score}` : ""}
               </button>
             );
           })}

@@ -1,12 +1,12 @@
-import React from 'react';
+import React from "react";
+import styles from './styles.module.css';
 
-type Status = 'unanswered' | 'correct' | 'incorrect';
+type Status = "unanswered" | "correct" | "incorrect";
 
 type QuizMapProps = {
   questionCount: number;
   activeIndex: number;
   statuses: readonly Status[];
-  buttonClassName: string;
   onGoToQuestion: (index: number) => void;
 };
 
@@ -14,7 +14,6 @@ export default function QuizMap({
   questionCount,
   activeIndex,
   statuses,
-  buttonClassName,
   onGoToQuestion,
 }: QuizMapProps) {
   const items = Array.from({ length: questionCount });
@@ -22,14 +21,14 @@ export default function QuizMap({
   return (
     <>
       {items.map((_, idx) => {
-        const status = statuses[idx] ?? 'unanswered';
+        const status = statuses[idx] ?? "unanswered";
 
         const statusClass =
-          status === 'correct'
-            ? 'button--success'
-            : status === 'incorrect'
-              ? 'button--danger'
-              : 'button--secondary';
+          status === "correct"
+            ? "button--success"
+            : status === "incorrect"
+              ? "button--danger"
+              : "button--secondary";
 
         const isActive = idx === activeIndex;
 
@@ -37,8 +36,9 @@ export default function QuizMap({
           <button
             key={idx}
             type="button"
-            className={`button button--sm ${statusClass} ${isActive ? 'button--outline' : ''} ${buttonClassName}`}
-            onClick={() => onGoToQuestion(idx)}>
+            className={`button button--sm ${statusClass} ${isActive ? "button--outline" : ""} ${styles.questionMapButton}`}
+            onClick={() => onGoToQuestion(idx)}
+          >
             {idx + 1}
           </button>
         );

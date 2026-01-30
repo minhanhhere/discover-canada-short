@@ -1,32 +1,13 @@
-import React, { useEffect, useMemo, useState } from 'react';
-import { QuizQuestion, useFetchPracticeQuizData } from './state/useFetchPracticeQuizData';
-import styles from './styles.module.css';
-import QuizIntro from './QuizIntro';
-import QuizError from './QuizError';
-import QuizMap from './QuizMap';
-import { useQuizProgressStore } from './state/quizProgressStore';
-
-function pickRandomArrayIndex(array: any[]) {
-  return Math.floor(Math.random() * array.length);
-}
-
-function shuffle<T>(items: readonly T[]): T[] {
-  const arr = items.slice();
-  for (let i = arr.length - 1; i > 0; i--) {
-    const j = Math.floor(Math.random() * (i + 1));
-    [arr[i], arr[j]] = [arr[j], arr[i]];
-  }
-  return arr;
-}
-
-function normalizeQuizSet(set: QuizQuestion[] | undefined | null): QuizQuestion[] {
-  // Defensive copy + shuffle questions and answers
-  const questions = (set ?? []).filter(Boolean).map((q) => ({
-    ...q,
-    answer: shuffle(q.answer ?? []),
-  }));
-  return shuffle(questions);
-}
+import React, { useEffect, useMemo, useState } from "react";
+import {
+  useFetchPracticeQuizData,
+} from "./state/useFetchPracticeQuizData";
+import styles from "./styles.module.css";
+import QuizIntro from "./QuizIntro";
+import QuizError from "./QuizError";
+import QuizMap from "./QuizMap";
+import { useQuizProgressStore } from "./state/quizProgressStore";
+import { normalizeQuizSet, pickRandomArrayIndex } from "./quizUtils";
 
 export default function Quiz() {
   const quizProgress = useQuizProgressStore((s) => s.quizProgress);
@@ -34,9 +15,14 @@ export default function Quiz() {
   const completeQuiz = useQuizProgressStore((s) => s.completeQuiz);
   const resetQuiz = useQuizProgressStore((s) => s.resetQuiz);
 
-  const { data: quizData, isLoading, isError, error, refetch } = useFetchPracticeQuizData();
+  const {
+    data: quizData,
+    isLoading,
+    isError,
+    error,
+    refetch,
+  } = useFetchPracticeQuizData();
 
-  // The selected quiz set (one inner array from QuizData). Null means "not started".
   const [quizSetIndex, setQuizSetIndex] = useState<number | null>(null);
   const [questionIndex, setQuestionIndex] = useState<number>(0);
   const [selectedAnswerIndex, setSelectedAnswerIndex] = useState<number | null>(null);
@@ -52,15 +38,19 @@ export default function Quiz() {
   const questions = useMemo(() => normalizeQuizSet(selectedSet), [selectedSet]);
 
   const currentQuestion =
-    questionIndex < 0 || questionIndex >= questions.length ? null : questions[questionIndex];
+    questionIndex < 0 || questionIndex >= questions.length
+      ? null
+      : questions[questionIndex];
 
   const reveal = selectedAnswerIndex !== null;
 
   const questionStatuses = useMemo(() => {
     return questions.map((q, idx) => {
       const chosen = answerHistory[idx];
-      if (typeof chosen !== 'number') return 'unanswered' as const;
-      return q.answer?.[chosen]?.isCorrect ? ('correct' as const) : ('incorrect' as const);
+      if (typeof chosen !== "number") return "unanswered" as const;
+      return q.answer?.[chosen]?.isCorrect
+        ? ("correct" as const)
+        : ("incorrect" as const);
     });
   }, [questions, answerHistory]);
 
@@ -68,7 +58,7 @@ export default function Quiz() {
     return Object.entries(answerHistory).reduce((count, [qIdxStr, aIdx]) => {
       const qIdx = Number(qIdxStr);
       const q = questions[qIdx];
-      if (!q || typeof aIdx !== 'number') return count;
+      if (!q || typeof aIdx !== "number") return count;
       return q.answer?.[aIdx]?.isCorrect ? count + 1 : count;
     }, 0);
   }, [answerHistory, questions]);
@@ -78,7 +68,7 @@ export default function Quiz() {
     setQuestionIndex(targetIndex);
 
     const restored = answerHistory[targetIndex];
-    setSelectedAnswerIndex(typeof restored === 'number' ? restored : null);
+    setSelectedAnswerIndex(typeof restored === "number" ? restored : null);
   }
 
   function startQuiz(idx?: number) {
@@ -108,7 +98,7 @@ export default function Quiz() {
 
     // Restore previous selection if user had answered this question before.
     const restored = answerHistory[next];
-    setSelectedAnswerIndex(typeof restored === 'number' ? restored : null);
+    setSelectedAnswerIndex(typeof restored === "number" ? restored : null);
   }
 
   function prevQuestion() {
@@ -120,7 +110,7 @@ export default function Quiz() {
     setQuestionIndex(prev);
 
     const restored = answerHistory[prev];
-    setSelectedAnswerIndex(typeof restored === 'number' ? restored : null);
+    setSelectedAnswerIndex(typeof restored === "number" ? restored : null);
   }
 
   function resetQuizProgress() {
@@ -128,10 +118,10 @@ export default function Quiz() {
     setQuizSetIndex(null);
   }
 
-  // complete quiz when all questions have been answered
+  // Effect: complete quiz when all questions have been answered
   useEffect(() => {
     if (Object.keys(answerHistory).length === questions.length) {
-      if (typeof quizSetIndex === 'number') {
+      if (typeof quizSetIndex === "number") {
         completeQuiz(quizSetIndex, `${correctCount}/${questions.length}`);
       }
     }
@@ -142,13 +132,7 @@ export default function Quiz() {
   }
 
   if (isError) {
-    return (
-      <QuizError
-        error={error}
-        preClassName={`margin-bottom--md ${styles.preWrap}`}
-        onRetry={() => refetch()}
-      />
-    );
+    return <QuizError error={error} onRetry={() => refetch()} />;
   }
 
   if (!quizData || quizData.length === 0) {
@@ -156,16 +140,16 @@ export default function Quiz() {
   }
 
   if (quizSetIndex === null || !currentQuestion) {
-    return <QuizIntro
-      quizProgress={quizProgress}
-      dataSetLength={quizData.length}
-      onStart={startQuiz} />;
+    return <QuizIntro dataSetLength={quizData.length} onStart={startQuiz} />;
   }
 
   return (
     <div>
+      {/* Question and Metadata */}
       <div className={`row row--no-gutters margin-bottom--sm ${styles.quizHeader}`}>
-        <div className="col col--auto text--center">Quiz {quizSetIndex + 1}</div>
+        <div className="col col--auto text--center">
+          Quiz {quizSetIndex + 1}
+        </div>
         <div className="col col--auto">
           <span className="badge badge--info margin-right--sm">
             Question {questionIndex + 1}/{questions.length}
@@ -185,6 +169,7 @@ export default function Quiz() {
         </div>
       </div>
 
+      {/* Answers */}
       <div className="margin-bottom--md">
         {currentQuestion.answer.map((ans, idx) => {
           const isSelected = selectedAnswerIndex === idx;
@@ -193,9 +178,9 @@ export default function Quiz() {
 
           const className =
             `button button--block button--lg margin-bottom--sm ${styles.answerButton} ` +
-            (reveal ? 'button--secondary' : 'button--outline button--primary') +
-            (shouldHighlightCorrect ? ` ${styles.answerButtonCorrect}` : '') +
-            (shouldHighlightWrong ? ` ${styles.answerButtonWrong}` : '');
+            (reveal ? "button--secondary" : "button--outline button--primary") +
+            (shouldHighlightCorrect ? ` ${styles.answerButtonCorrect}` : "") +
+            (shouldHighlightWrong ? ` ${styles.answerButtonWrong}` : "");
 
           return (
             <button
@@ -206,54 +191,74 @@ export default function Quiz() {
               onClick={() => {
                 setSelectedAnswerIndex(idx);
                 setAnswerHistory((prev) => ({ ...prev, [questionIndex]: idx }));
-              }}>
+              }}
+            >
               {ans.text}
             </button>
           );
         })}
       </div>
 
+      {/* Navigation and Controls */}
       <div className="margin-top--lg">
         <div>
+
+          {/* Back, CorrectCount , Next */}
           <div className={`row padding-horiz--md margin-bottom--lg ${styles.spaceBetween}`}>
             <button
               type="button"
               className="button button--secondary"
               onClick={prevQuestion}
-              disabled={questionIndex === 0}>
+              disabled={questionIndex === 0}
+            >
               Previous
             </button>
             <div>
-              <span className="badge badge--success">Correct: {correctCount}/{questions.length}</span>
+              <span className="badge badge--success">
+                Correct: {correctCount}/{questions.length}
+              </span>
             </div>
             <button
               type="button"
               className="button button--primary"
               onClick={nextQuestion}
-              disabled={questionIndex >= questions.length - 1}>
+              disabled={questionIndex >= questions.length - 1}
+            >
               Next
             </button>
           </div>
 
+          {/* Question Map */}
           <div className="margin-bottom--lg">
             <div className={styles.questionMap}>
               <QuizMap
                 questionCount={questions.length}
                 activeIndex={questionIndex}
                 statuses={questionStatuses}
-                buttonClassName={styles.questionMapButton}
                 onGoToQuestion={goToQuestion}
               />
             </div>
           </div>
 
+          {/* Reset and Back to Quiz List */}
           <div className="margin-bottom--sm">
-            <button type="button" className="button button--block button--warning" onClick={() => resetQuizProgress()}>
-              {quizProgress[quizSetIndex]?.score ? `Last result: ${quizProgress[quizSetIndex]?.score} | ` : ''}Reset Quiz Progress
+            <button
+              type="button"
+              className="button button--block button--warning"
+              onClick={() => resetQuizProgress()}
+            >
+              {quizProgress[quizSetIndex]?.score
+                ? `Last result: ${quizProgress[quizSetIndex]?.score} | `
+                : ""}
+              Reset Quiz Progress
             </button>
           </div>
           <div>
-            <button type="button" className="button button--block button--danger" onClick={() => setQuizSetIndex(null)}>
+            <button
+              type="button"
+              className="button button--block button--danger"
+              onClick={() => setQuizSetIndex(null)}
+            >
               Back to Quiz List
             </button>
           </div>
