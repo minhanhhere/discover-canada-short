@@ -39,7 +39,6 @@ export default function QuizIntro({ dataSetLength, onStart, quizProgress }: Quiz
 
           {Array.from({ length: dataSetLength }, (_, i) => {
             const isStarted = quizProgress.started.includes(i);
-            const isCompleted = quizProgress.completed.includes(i);
             return (
               <button
                 key={i}
@@ -47,7 +46,7 @@ export default function QuizIntro({ dataSetLength, onStart, quizProgress }: Quiz
                 className={`button button--lg button--block button--secondary padding-horiz--none ${isStarted ? "" : "button--outline"}`}
                 onClick={() => onStart(i)}
               >
-                Quiz {i + 1}{isCompleted ? ` ✅${quizProgress.scores[i]}` : ""}
+                Quiz {i + 1}{quizProgress.scores[i] ? ` ✅${quizProgress.scores[i]}` : ""}
               </button>
             );
           })}
