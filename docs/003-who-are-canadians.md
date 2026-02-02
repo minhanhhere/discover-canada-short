@@ -140,9 +140,9 @@ Canadians are proud of a **unique national identity**
 - Religious freedom
 
 ✅ Canada’s diversity includes gay and lesbian Canadians:
-  - Full legal protection
-  - Equal treatment
-  - Access to **civil marriage**
+- Full legal protection
+- Equal treatment
+- Access to **civil marriage**
 
 ✅ In summary:
 - Canada is a **multicultural society**
