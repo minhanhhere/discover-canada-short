@@ -4,9 +4,10 @@ sidebar_label: The Oath of Citizenship ✋
 import Tabs from '@theme/Tabs';
 import TabItem from '@theme/TabItem';
 
+# The Oath of Citizenship
+
 [Go to the official content](https://www.canada.ca/en/immigration-refugees-citizenship/corporate/publications-manuals/discover-canada/read-online/oath-citizenship.html)
 
-# The Oath of Citizenship
 <Tabs>
   <TabItem value="english" label="English version" default>
 > I swear (or affirm)  

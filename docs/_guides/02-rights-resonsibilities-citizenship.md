@@ -1,11 +1,3 @@
----
-sidebar_label: Rights and Responsibilities 🏛️
----
-
-# Rights and Responsibilities of Citizenship
-
-[Go to the official content](https://www.canada.ca/en/immigration-refugees-citizenship/corporate/publications-manuals/discover-canada/read-online/rights-resonsibilities-citizenship.html)
-
 ## Citizenship Rights
 ✅ Rights come from:
 - Canadian history & law
