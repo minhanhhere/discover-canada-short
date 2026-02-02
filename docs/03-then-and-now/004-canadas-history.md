@@ -56,17 +56,15 @@ sidebar_label: Canada’s History 📜
 
 ✅ Leaders like **Jean Talon, Bishop Laval, and Count Frontenac** built a French Empire in North America **from Hudson Bay to the Gulf of Mexico**.
 
-:::danger
-
-Should be moved to lower section
-- ✅ **1690**: Count Frontenac refused to surrender Quebec
-- ✅ Pierre Le Moyne d’Iberville: major French military hero
-- ✅ Sir Guy Carleton (Lord Dorchester):
+👍 Pictures (from left to right)
+- Count Frontenac refused to surrender Quebec to the English in 1690, saying: "My only reply will be from the mouths of my cannons!"
+- Pierre Le Moyne, Sieur d’Iberville
+  - A great hero of New France
+  - Winned many victories over the English, from James Bay in the north to Nevis in the Caribbean, in the late 17th and early 18th centuries.
+- Sir Guy Carleton (Lord Dorchester), as Governor of Quebec
   - Defended Canadiens’ rights
-  - Defeated U.S. invasion (1775)
-  - Managed Loyalist settlement (1782–83)
-
-:::
+  - Defeated an US invasion of Quebec (1775)
+  - Supervised the Loyalist migration to Nova Scotia and Quebec in 1782-83.
 
 ## Struggle for a Continent
 ✅ **In 1670**, King Charles II of England gave Hudson’s Bay Company exclusive trading rights over the land draining into Hudson Bay.
