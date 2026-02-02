@@ -8,53 +8,58 @@ sidebar_label: Canada’s History 📜
 [Go to the official content](https://www.canada.ca/en/immigration-refugees-citizenship/corporate/publications-manuals/discover-canada/read-online/canadas-history.html)
 
 ## Aboriginal Peoples
-- 👍 When Europeans arrived, **all regions of Canada were already inhabited**
-- ✅ Europeans called Indigenous peoples “Indians” (mistaken belief they reached East Indies)
-- 👍 Lifestyles depended on geography:
-  - Huron-Wendat & Iroquois: farming and hunting (Great Lakes)
-  - Cree & Dene: hunter-gatherers (Northwest)
-  - Sioux: nomadic, followed bison
-  - Inuit: Arctic wildlife
-  - West Coast peoples: fishing, drying and smoking fish
-- ✅ Warfare occurred between groups over land and resources
-- ✅ Europeans brought **diseases** → many Indigenous deaths
-- 👍 Early **economic, religious, and military alliances** helped shape Canada
+👍 When Europeans arrived, **all regions of Canada were already occupied by native peoples they called Indians**, because the first explorers thought they had reached the East Indies
+
+👍 Lifestyles depended on geography:
+- Huron-Wendat of the Great Lakes, like the Iroquois: farmers and hunters
+- Cree & Dene of Northwest: hunter-gatherers
+- Sioux: nomadic, followed bison
+- Inuit: Arctic wildlife
+- West Coast peoples: fishing, drying and smoking fish
+
+✅ Warfare occurred between groups over land and resources
+
+✅ Europeans arrival
+- ✅ Brought **diseases** → many Aboriginals died due to lack of immunity
+- 👍 However, Aboriginal peoples and Europeans formed strong economic, religious, and military bonds in the first 200 years of coexistence that helped shape Canada.
 
 ## The First Europeans
-- ✅ Vikings from Iceland reached **Labrador and Newfoundland** ~1,000 years ago
-- 👍 Viking site: **L’Anse aux Meadows** (World Heritage Site)
-- ✅ **1497**: John Cabot explored and mapped Canada’s east coast
+✅ Vikings from Iceland reached **Labrador and Newfoundland** ~1,000 years ago
+- 👍 The remains of their settlement, **l’Anse aux Meadows**, are a World Heritage site.
 
-- 👍 John Cabot:
-  - Italian immigrant to England
-  - Landed in **1497**
-  - Claimed land for **England**
-  - Likely landed in **Newfoundland or Cape Breton**
+✅ **In 1497**
+- John Cabot (an Italian immigrant to England)
+- First to map Canada’s East Coast (Atlantic Shore)
+- Landed in **Newfoundland or Cape Breton**
+- Claimed New Founde Land for **England**
 - ✅ English settlement began later in **1610**
 
 ## Exploring a River, Naming Canada
-- ✅ **1534–1542**: Jacques Cartier made **three voyages**
+✅ Between **1534–1542**, Jacques Cartier made **three voyages**
 - 👍 Claimed land for **King Francis I of France**
-- 👍 Word **kanata** (Iroquoian) = “village”
+- 👍 Cartier heard two captured guides speak the Iroquoian word **"kanata"**, meaning **"village"**
 - ✅ Name **Canada** appeared on maps by the **1550s**
 
 ## Royal New France
-- ✅ **1604**: First European settlement north of Florida
-  - Pierre de Monts & Samuel de Champlain
-  - St. Croix Island → Port-Royal (Acadia / Nova Scotia)
-- ✅ **1608**: Champlain founded **Québec City**
-- ✅ French allied with:
-  - Algonquin
-  - Montagnais
-  - Huron
-- ✅ Long conflict with Iroquois; **peace in 1701**
-- 👍 Fur trade was central to New France
-- ✅ Important leaders:
-  - Jean Talon
-  - Bishop Laval
-  - Count Frontenac
-- 👍 French Empire stretched from **Hudson Bay to Gulf of Mexico**
+✅ **1604**: First European settlement north of Florida
+- Established by Pierre de Monts & Samuel de Champlain
+- First on St. Croix Island (Maine now)
+- Then at Port-Royal, Acadia (Nova Scotia now)
 
+✅ **1608**: Champlain built a fortress (**Québec City** now)
+
+✅ Long conflict for a century between: 
+- Champlain alliance: **the French** & **Algonquin, Montagnais and Huron** (historic enemies of the Iroquois)
+- Iroquois, a confederation of five (later six) First Nations
+- Finally **made peace in 1701**
+
+👍 The French and Aboriginal people co-oped in the fur trade, trading beaver pelts for European markets.
+
+✅ Leaders like **Jean Talon, Bishop Laval, and Count Frontenac** built a French Empire in North America **from Hudson Bay to the Gulf of Mexico**.
+
+:::danger
+
+Should be moved to lower section
 - ✅ **1690**: Count Frontenac refused to surrender Quebec
 - ✅ Pierre Le Moyne d’Iberville: major French military hero
 - ✅ Sir Guy Carleton (Lord Dorchester):
@@ -62,33 +67,43 @@ sidebar_label: Canada’s History 📜
   - Defeated U.S. invasion (1775)
   - Managed Loyalist settlement (1782–83)
 
+:::
+
 ## Struggle for a Continent
-- ✅ **1670**: Hudson’s Bay Company granted exclusive trading rights
-- 👍 Fur traders:
-  - *Voyageurs*
-  - *Coureurs des bois*
-- ✅ British colonies grew richer than New France
-- ✅ **1759**: Battle of the **Plains of Abraham**
-  - British defeated French
-  - End of French rule in North America
-- 👍 Commanders killed:
-  - James Wolfe (British)
-  - Marquis de Montcalm (French)
+✅ **In 1670**, King Charles II of England gave Hudson’s Bay Company exclusive trading rights over the land draining into Hudson Bay.
+- For the next 100 years, the Company competed with Montreal-based traders.
+- The skilled and courageous men who travelled by canoe were called
+**voyageurs** and **coureurs des bois**, formed strong alliances with First Nations.
+
+✅ English colonies along the Atlantic seaboard, from early 1600s, became richer and more populous than New France
+
+✅ In 1700s, France and Great Britain battled for control of North America
+
+✅ **1759**: British defeated French in the Battle of the **Plains of Abraham** at Quebec City
+  - End of French's empire in North America
+
+👍 Both armies commanders were killed in battle:
+- Brigadier James Wolfe (British)
+- Marquis de Montcalm (French)
 
 ## The Province of Quebec
-- ✅ Britain renamed colony **Province of Quebec**
-- 👍 French Catholics called:
-  - *Habitants*
-  - *Canadiens*
-- ✅ Sought to preserve language, religion, and culture
+✅ After war, Great Britain renamed colony the **Province of Quebec**
+
+✅ The French-speaking Catholic people, known as **habitants** or **Canadiens**, strove to keep their way of life in the **English-speaking, Protestant-ruled British Empire**.
 
 ## A Tradition of Accommodation
-- ✅ **Quebec Act (1774)**:
-  - Religious freedom for Catholics
-  - Catholics allowed to hold public office
-  - Restored **French civil law**
-  - Kept **British criminal law**
-- 👍 Major constitutional foundation of Canada
+✅ **Quebec Act (1774)**:
+  - To better govern the French Roman Catholic majority
+  - Provided religious freedom for Catholics
+  - Allowed Catholics to hold public office (not allowed in Britain)
+  - Restored **French civil law** while Kept **British criminal law**
+  - 👍 Major constitutional foundation of Canada
+
+:::warning
+
+To continue from here
+
+:::
 
 ## United Empire Loyalists
 - ✅ **1776**: American Revolution
