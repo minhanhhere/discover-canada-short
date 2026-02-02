@@ -1,10 +1,10 @@
-## Intro
+#### Intro
 
 - Canada is the only constitutional monarchy in North America
 - Canada's institutions institutions uphold a commitment to Peace, Order and Good Government, a key phrase in Canada's original constitutional document in 1867, the British North America Act.
 - Poets and songwriters have hailed Canada as the “Great Dominion.”
 
-## Aboriginal Peoples
+#### Aboriginal Peoples
 
 - Ancestors of the Aboriginal peoples came to Canada from Asia.
 - Aboriginal and treaty rights are in the Canadian Constitution
@@ -15,7 +15,7 @@
 - Inuit which means “the people” in the Inuktitut language, live in small, scattered communities across the Arctic
 - The Métis are a distinct people of mixed Aboriginal and European ancestry, the majority of whom live in the Prairie provinces.
 
-## English and French
+#### English and French
 
 - The two official languages of Canada are English and French
 - Anglophones: English-speaking Canadians, around 18 million
@@ -25,7 +25,7 @@
 - Quebecers: the people of Quebec, the vast majority French-speaking
 - One million Anglo-Quebecers have a heritage of 250 years and form a vibrant part of the Quebec fabric
 
-## Diversity in Canada
+#### Diversity in Canada
 
 - Canada is often referred to as a land of immigrants
 - Since the 1970s, most immigrants have come from Asian countries
