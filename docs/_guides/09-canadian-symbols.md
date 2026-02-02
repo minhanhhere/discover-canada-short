@@ -1,11 +1,3 @@
----
-sidebar_label: Canadian Symbols 🍁
----
-
-# Canadian Symbols
-
-[Go to the official content](https://www.canada.ca/en/immigration-refugees-citizenship/corporate/publications-manuals/discover-canada/read-online/canadian-symbols.html)
-
 ## Summary
 
 - 👍 Canadian symbols are **objects, events, and people** with special meaning  
