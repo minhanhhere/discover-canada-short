@@ -56,16 +56,6 @@ sidebar_label: Canada’s History 📜
 
 ✅ Leaders like **Jean Talon, Bishop Laval, and Count Frontenac** built a French Empire in North America **from Hudson Bay to the Gulf of Mexico**.
 
-👍 Pictures (from left to right)
-- Count Frontenac refused to surrender Quebec to the English in 1690, saying: "My only reply will be from the mouths of my cannons!"
-- Pierre Le Moyne, Sieur d’Iberville
-  - A great hero of New France
-  - Winned many victories over the English, from James Bay in the north to Nevis in the Caribbean, in the late 17th and early 18th centuries.
-- Sir Guy Carleton (Lord Dorchester), as Governor of Quebec
-  - Defended Canadiens’ rights
-  - Defeated an US invasion of Quebec (1775)
-  - Supervised the Loyalist migration to Nova Scotia and Quebec in 1782-83.
-
 ## Struggle for a Continent
 ✅ **In 1670**, King Charles II of England gave Hudson’s Bay Company exclusive trading rights over the land draining into Hudson Bay.
 - For the next 100 years, the Company competed with Montreal-based traders.
@@ -110,6 +100,19 @@ To continue from here
 - ✅ Loyalists came from diverse ethnic and religious backgrounds
 - ✅ About **3,000 Black Loyalists** arrived
 - ✅ **1792**: Some moved to **Sierra Leone**
+
+:::info[Pictures (from left to right)]
+
+- **Count Frontenac** refused to surrender Quebec to the English in 1690, saying: "My only reply will be from the mouths of my cannons!"
+- **Pierre Le Moyne, Sieur d’Iberville**
+  - A great hero of New France
+  - Winned many victories over the English, from James Bay in the north to Nevis in the Caribbean, in the late 17th and early 18th centuries.
+- **Sir Guy Carleton (Lord Dorchester)**, as Governor of Quebec
+  - Defended Canadiens’ rights
+  - Defeated an US invasion of Quebec (1775)
+  - Supervised the Loyalist migration to Nova Scotia and Quebec in 1782-83.
+
+:::
 
 ## The Beginnings of Democracy
 - ✅ **1758**: First elected assembly in **Nova Scotia**

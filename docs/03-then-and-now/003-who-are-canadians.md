@@ -147,7 +147,11 @@ Canadians are proud of a **unique national identity**
 - Canada is a **multicultural society**
 - Sharing a common **Canadian identity**
 
-👍 Picture: Olympian Marjorie Turner-Bailey of Nova Scotia is a descendant of **black Loyalists**
-- **Black Loyalists** are escaped slaves and freed men and women of African origin
+:::info[Picture]
+
+Olympian Marjorie Turner-Bailey of Nova Scotia
+- A descendant of **black Loyalists**, who are escaped slaves and freed men and women of African origin
 - They fled from the US to Canada in the **1780s**
 - Slavery was still legal in the US at that time until **1863**
+
+:::
