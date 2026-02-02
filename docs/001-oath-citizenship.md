@@ -1,10 +1,14 @@
 ---
 sidebar_label: The Oath of Citizenship ✋
 ---
-# The Oath of Citizenship
+import Tabs from '@theme/Tabs';
+import TabItem from '@theme/TabItem';
 
 [Go to the official content](https://www.canada.ca/en/immigration-refugees-citizenship/corporate/publications-manuals/discover-canada/read-online/oath-citizenship.html)
 
+# The Oath of Citizenship
+<Tabs>
+  <TabItem value="english" label="English version" default>
 > I swear (or affirm)  
 > That I will be faithful  
 > And bear true allegiance  
@@ -19,7 +23,8 @@ sidebar_label: The Oath of Citizenship ✋
 > The Aboriginal and treaty rights of  
 > First Nations, Inuit and Métis peoples  
 > And fulfil my duties as a Canadian citizen.
-
+  </TabItem>
+  <TabItem value="french" label="French version">
 > Je jure (ou j'affirme solennellement)  
 > Que je serai fidèle  
 > Et porterai sincère allégeance  
@@ -36,6 +41,8 @@ sidebar_label: The Oath of Citizenship ✋
 > Et que je remplirai loyalement  
 > Mes obligations  
 > De citoyen canadien.
+  </TabItem>
+</Tabs>
 
 ## Understanding the Oath
 
