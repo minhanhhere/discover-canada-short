@@ -8,15 +8,12 @@ sidebar_label: Rights and Responsibilities 🏛️
 [Go to the official content](https://www.canada.ca/en/immigration-refugees-citizenship/corporate/publications-manuals/discover-canada/read-online/rights-resonsibilities-citizenship.html)
 
 ## Citizenship Rights
-- 👍 Canadian citizens have **rights and responsibilities**
-- 👍 These rights come from:
-  - Canadian history
-  - Canadian law
+- ✅ Rights come from:
+  - Canadian history & law
   - Shared traditions, identity, and values
 
 - ✅ Sources of Canadian law:
-  - Laws passed by **Parliament**
-  - Laws passed by **provincial legislatures**
+  - Laws passed by **Parliament** and **provincial legislatures**
   - **English common law**
   - **Civil Code of France**
   - **Unwritten constitution** inherited from Great Britain
@@ -27,8 +24,7 @@ sidebar_label: Rights and Responsibilities 🏛️
 
 - ✅ Fundamental freedoms include:
   - Freedom of **conscience and religion**
-  - Freedom of **thought, belief, opinion, and expression**
-    - Includes freedom of speech and press
+  - Freedom of **thought, belief, opinion, and expression**, including freedom of speech and press
   - Freedom of **peaceful assembly**
   - Freedom of **association**
 
@@ -38,10 +34,7 @@ sidebar_label: Rights and Responsibilities 🏛️
 
 - ✅ In **1982**, the Constitution was amended to include the:
   - **Canadian Charter of Rights and Freedoms**
-
-- 👍 The Charter begins with:
-  - “The supremacy of God and the rule of law”
-  - Emphasizes:
+  - Charters begin with **"Whereas Canada is founded upon principles that recognize the supremacy of God and the rule of law."**
     - Importance of religious traditions
     - Dignity and worth of every person
 
@@ -59,20 +52,7 @@ sidebar_label: Rights and Responsibilities 🏛️
     - Core part of Canadian identity
     - Respect for diversity and pluralism
 
-## The Equality of Women and Men
-
-- ✅ Men and women are **equal under the law** in Canada
-- ✅ Canada does **not tolerate barbaric cultural practices**, including:
-  - Spousal abuse
-  - “Honour killings”
-  - Female genital mutilation
-  - Forced marriage
-  - Other gender-based violence
-- ✅ These crimes are **severely punished** under Canadian criminal law
-
 ## Citizenship Responsibilities
-
-- ✅ Rights come with **responsibilities**
 
 - ✅ **Obeying the law**
   - Canada is based on the **rule of law**
@@ -103,6 +83,17 @@ sidebar_label: Rights and Responsibilities 🏛️
 - ✅ **Protecting Canada’s heritage and environment**
   - Avoid waste and pollution
   - Protect natural, cultural, and architectural heritage
+
+## The Equality of Women and Men
+
+- ✅ Men and women are **equal under the law** in Canada
+- ✅ Canada does **not tolerate barbaric cultural practices**, including:
+  - Spousal abuse
+  - “Honour killings”
+  - Female genital mutilation
+  - Forced marriage
+  - Other gender-based violence
+- ✅ These crimes are **severely punished** under Canadian criminal law
 
 ## Defending Canada
 
