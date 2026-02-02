@@ -46,6 +46,7 @@ const config: Config = {
           // Remove this to remove the "edit this page" links.
           editUrl:
             "https://github.com/minhanhhere/discover-canada-short/tree/main/",
+          sidebarCollapsed: false,
         },
         blog: false,
       } satisfies Preset.Options,
