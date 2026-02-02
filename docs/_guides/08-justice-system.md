@@ -1,11 +1,3 @@
----
-sidebar_label: The Justice System ⚖️
----
-
-# The Justice System
-
-[Go to the official content](https://www.canada.ca/en/immigration-refugees-citizenship/corporate/publications-manuals/discover-canada/read-online/justice-system.html)
-
 ## Summary
 
 ✅ **Due process under the law**
