@@ -250,70 +250,125 @@
 - **First PM in 1867**
 - **Portrait on $10 bill**
 
+## Challenge in the West
+✅ **1869**: Canada took over the northwest from Hudson’s Bay Company without consulting the 12,000 Red River Métis. Louis Riel responded by seizing Fort Garry.
+
+✅ **1870**: Ottawa retook Fort Garry; Riel fled to the U.S. Manitoba was established.
+
+✅ Riel elected to Parliament but never served.
+
+✅ **1885**: **Second rebellion in Saskatchewan** over Métis and Indigenous rights. Riel was tried and executed for treason; Quebec opposed.
+
+✅ Riel is seen as a Métis hero and **father of Manitoba**.
+
+✅ **1873**: Prime Minister Macdonald formed the North West Mounted Police (NWMP)
+- To pacify the West and negotiate with the Indians
+- Founded Fort Calgary, Fort MacLeod and other centers (today's towns and cities)
+- Headquarter in Regina
+- Today called **RCMP** or "The Mounties" (one of Canada's best-known symbols of National Police force)
+
+## A Railway from Sea to Sea
+✅ **1871**: British Columbia joined Canada (after Ottawa's railway promise)
+
+✅ **Nov 7, 1885**: Donald Smith drove the final spike, completing a symbol of national unity
+
+✅ The project is called Canadian Pacific Railway
+- Financed by British and American investors
+- Built by European and Chinese workers
+- The Chinese faced discrimination, including the Head Tax; Canada apologized in 2006.
+
+✅ CPR's "ribbon of steel" fulfilled the national dream, connecting Canada from East to West
+
+## Moving Westward
+✅ **1890s–early 1900s**: economic boom and more industrialized
+
+✅ Immigration:
+- 1 million British
+- 1 million Americans
+
+✅ First French-Canadian Prime Minister **Sir Wilfrid Laurier**
+- Portrait on $5 bill
+- Encouraged immigration to the West
+
+✅ Large Eastern European settlement before 1914 thanks to the railway
+- 170,000 Ukrainians
+- 115,000 Poles
+- Tens of thousand (20,000 - 90,000+) Germans, French, Norwegians, Swedes
+
+## The First World War
+✅ **1914–1918**
+
+✅ Formed Canadian Expeditionary Force (later the Canadian Corps)
+
+✅ Over **600,000** Canadians served in war, mostly volunteers
+
+✅ In April 1917, the Canadian Corps captured Vimy Ridge, with 10,000 casualties, earning a reputation as the British Empire’s “shock troops.” - April 9 is called Vimy Day.
+
+✅ In 1918, under General Sir Arthur Currie, the Canadian Corps advanced in the last hundred days, winning key battles like Amiens, Arras, Canal du Nord, Cambrai, and Mons.
+- Aug 08, 1918 - black day of German Army
+
+✅ **Nov 11, 1918**: war ended in Armistice
+- ✅ **60,000 Canadian dead** and **170,000 wounded**
+- ✅ Nov 11 became Remembrance day later
+- ✅ Canadians wear red poppy and observe a moment of silence at the 11th hour of the 11th day of the 11th month to honour the sacrifices
+
+## Women Get the Vote
+At time of Confederation, only adult white males could vote, as was typical then.
+
+✅ **Women’s suffrage movement**: women achieved rights to vote
+- ✅ Founder: **Dr. Emily Stowe**, first Canadian female medical pratitioner
+
+✅ **1916**: Manitoba, first province granted women's right to vote
+
+✅ **1917**: Granted Federal vote for some women
+- First to nurses at battle front
+- Then to women related to men in active wartime service
+
+✅ **1918**: Most women aged 21+ gained vote in Federal
+
+✅ **1921**: Agnes Macphail became first woman MP
+- A farmer and teacher
+
+✅ **1940**: Quebec women gained vote
+- Thanks to Thérèse Casgrain and others
+
+## Between the Wars
+✅ After WW-I, the British Empire became the British Commonwealth (free association of states)
+- Canada is a leading member alongside India, Australia, New Zealand, and others
+
+✅ Roaring Twenties (192x) were boom times
+
+✅ **1929**: Stock market crashed, led to **Great Depression**, aka Dirty Thirties (until 1939)
+
+✅ **1934**: Bank of Canada created
+-  Manage the money supply and bring stability to the financial system
+
+✅ Immigration declined and many refugess were turned away
+
+## The Second World War
+✅ **1939–1945**
+- Started when Adolf Hitler, a Nazi dictator of Germany, invaded Poland
+
+✅ Over **1 million** Canadians and Newfoundlanders (separate British entity) served
+- ✅ **44,000 killed**
+
+✅ Key (loss) events:
+- Imperial Japan attack, defence of Hong Kong (1941)
+- Dieppe Raid, coast of France (1942)
+- D-Day / Juno Beach (June 6, 1944)
+
 :::danger
 
-To be Continue here
+Continue here
 
 :::
 
-## Challenge in the West
-- ✅ **1869–70**: Red River Resistance
-- ✅ **Louis Riel** led Métis uprising
-- ✅ Manitoba created in **1870**
-- ✅ **1885**: Second Métis rebellion
-- ✅ Riel executed for treason
-- ✅ **1873**: NWMP formed
-- ✅ NWMP → **RCMP**
-- 👍 RCMP is a national symbol
+✅ Canada liberated the Netherlands
 
-## A Railway from Sea to Sea
-- ✅ **1871**: BC joined Confederation (railway promise)
-- ✅ **Nov 7, 1885**: Last spike driven
-- ✅ Donald Smith (Lord Strathcona)
-- ✅ Built by European and Chinese workers
-- ✅ **2006**: Apology for Chinese Head Tax
+✅ **May 8, 1945**: Victory in Europe
 
-## Moving Westward
-- ✅ Economic boom (1890s–early 1900s)
-- ✅ Immigration:
-  - 1 million British
-  - 1 million Americans
-- ✅ PM **Sir Wilfrid Laurier**
-  - Portrait on $5 bill
-- ✅ Large Eastern European settlement
+✅ **Aug 14, 1945**: Japan surrendered
 
-## The First World War
-- ✅ **1914–1918**
-- ✅ Over **600,000** served
-- ✅ **Vimy Ridge** (April 1917)
-- ✅ April 9 = **Vimy Day**
-- ✅ **60,000 dead**, **170,000 wounded**
-- ✅ **Nov 11, 1918**: Armistice
+✅ Internment of Japanese Canadians
 
-## Women Get the Vote
-- ✅ Founder: **Dr. Emily Stowe**
-- ✅ **1916**: Manitoba first province
-- ✅ **1917**: Federal vote for some women
-- ✅ **1918**: Most women gained vote
-- ✅ **1921**: Agnes Macphail first woman MP
-- ✅ **1940**: Quebec women gained vote
-
-## Between the Wars
-- ✅ Canada part of **Commonwealth**
-- ✅ **Great Depression** (1929–1939)
-- ✅ **1934**: Bank of Canada created
-- ✅ Immigration declined
-
-## The Second World War
-- ✅ **1939–1945**
-- ✅ Over **1 million** served
-- ✅ **44,000 killed**
-- ✅ Key events:
-  - Hong Kong (1941)
-  - Dieppe (1942)
-  - D-Day / Juno Beach (June 6, 1944)
-- ✅ Canada liberated the Netherlands
-- ✅ **May 8, 1945**: Victory in Europe
-- ✅ **Aug 14, 1945**: Japan surrendered
-- ✅ Internment of Japanese Canadians
-- ✅ **1988**: Official apology and compensation
+✅ **1988**: Official apology and compensation
