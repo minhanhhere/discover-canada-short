@@ -5,6 +5,7 @@ import Tabs from '@theme/Tabs';
 import TabItem from '@theme/TabItem';
 import Guide from '../_guides/06-how-canadians-govern-themselves.md';
 import Note from '../_notes/06-how-canadians-govern-themselves.md';
+import Book from '../_books/06-how-canadians-govern-themselves.md';
 
 # How Canadians Govern Themselves
 
@@ -16,5 +17,8 @@ import Note from '../_notes/06-how-canadians-govern-themselves.md';
   </TabItem>
   <TabItem value="guide" label="AI Summary">
     <Guide />
+  </TabItem>
+  <TabItem value="book" label="Book">
+    <Book />
   </TabItem>
 </Tabs>

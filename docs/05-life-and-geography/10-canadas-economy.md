@@ -5,6 +5,7 @@ import Tabs from '@theme/Tabs';
 import TabItem from '@theme/TabItem';
 import Guide from '../_guides/10-canadas-economy.md';
 import Note from '../_notes/10-canadas-economy.md';
+import Book from '../_books/10-canadas-economy.md';
 
 # Canada’s Economy
 
@@ -16,5 +17,8 @@ import Note from '../_notes/10-canadas-economy.md';
   </TabItem>
   <TabItem value="guide" label="AI Summary">
     <Guide />
+  </TabItem>
+  <TabItem value="book" label="Book">
+    <Book />
   </TabItem>
 </Tabs>

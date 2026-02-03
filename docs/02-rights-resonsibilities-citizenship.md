@@ -5,6 +5,7 @@ import Tabs from '@theme/Tabs';
 import TabItem from '@theme/TabItem';
 import Guide from './_guides/02-rights-resonsibilities-citizenship.md';
 import Note from './_notes/02-rights-resonsibilities-citizenship.md';
+import Book from './_books/02-rights-resonsibilities-citizenship.md';
 
 # Rights and Responsibilities of Citizenship
 
@@ -16,5 +17,8 @@ import Note from './_notes/02-rights-resonsibilities-citizenship.md';
   </TabItem>
   <TabItem value="guide" label="AI Summary">
     <Guide />
+  </TabItem>
+  <TabItem value="book" label="Book">
+    <Book />
   </TabItem>
 </Tabs>

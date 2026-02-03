@@ -5,6 +5,7 @@ import Tabs from '@theme/Tabs';
 import TabItem from '@theme/TabItem';
 import Guide from '../_guides/04-canadas-history.md';
 import Note from '../_notes/04-canadas-history.md';
+import Book from '../_books/04-canadas-history.md';
 
 # Canada’s History
 
@@ -16,5 +17,8 @@ import Note from '../_notes/04-canadas-history.md';
   </TabItem>
   <TabItem value="guide" label="AI Summary">
     <Guide />
+  </TabItem>
+  <TabItem value="book" label="Book">
+    <Book />
   </TabItem>
 </Tabs>

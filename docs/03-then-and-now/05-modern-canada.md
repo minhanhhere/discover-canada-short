@@ -5,6 +5,7 @@ import Tabs from '@theme/Tabs';
 import TabItem from '@theme/TabItem';
 import Guide from '../_guides/05-modern-canada.md';
 import Note from '../_notes/05-modern-canada.md';
+import Book from '../_books/05-modern-canada.md';
 
 # Modern Canada
 
@@ -16,5 +17,8 @@ import Note from '../_notes/05-modern-canada.md';
   </TabItem>
   <TabItem value="guide" label="AI Summary">
     <Guide />
+  </TabItem>
+  <TabItem value="book" label="Book">
+    <Book />
   </TabItem>
 </Tabs>

@@ -1,7 +1,7 @@
 ## Trade and Economic Growth
 
 ✅ **Post–Second World War prosperity**
-- 👍 Canada had record economic growth after 1945
+- 👍 Record economic growth after 1945
 - Trade barriers from the Great Depression were reduced
 
 ✅ **International trade**

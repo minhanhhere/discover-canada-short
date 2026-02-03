@@ -5,6 +5,7 @@ import Tabs from '@theme/Tabs';
 import TabItem from '@theme/TabItem';
 import Guide from '../_guides/07-federal-elections.md';
 import Note from '../_notes/07-federal-elections.md';
+import Book from '../_books/07-federal-elections.md';
 
 # Federal Elections
 
@@ -16,5 +17,8 @@ import Note from '../_notes/07-federal-elections.md';
   </TabItem>
   <TabItem value="guide" label="AI Summary">
     <Guide />
+  </TabItem>
+  <TabItem value="book" label="Book">
+    <Book />
   </TabItem>
 </Tabs>

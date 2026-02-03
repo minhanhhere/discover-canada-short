@@ -5,6 +5,7 @@ import Tabs from '@theme/Tabs';
 import TabItem from '@theme/TabItem';
 import Guide from '../_guides/08-justice-system.md';
 import Note from '../_notes/08-justice-system.md';
+import Book from '../_books/08-justice-system.md';
 
 # The Justice System
 
@@ -16,5 +17,8 @@ import Note from '../_notes/08-justice-system.md';
   </TabItem>
   <TabItem value="guide" label="AI Summary">
     <Guide />
+  </TabItem>
+  <TabItem value="book" label="Book">
+    <Book />
   </TabItem>
 </Tabs>
