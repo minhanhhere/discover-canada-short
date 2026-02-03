@@ -78,20 +78,16 @@
   - Restored **French civil law** while Kept **British criminal law**
   - 👍 Major constitutional foundation of Canada
 
-:::warning
-
-To continue from here
-
-:::
-
 ## United Empire Loyalists
-- ✅ **1776**: American Revolution
-- ✅ Over **40,000 Loyalists** moved to Canada
+✅ In 1776, the US declares independence from Britain
+
+✅ Over **40,000 Loyalists** (loyal to the Crown) moved to Canada during the American Revolution
 - ✅ Settled in Nova Scotia and Quebec
-- ✅ Joseph Brant led Loyalist Mohawk into Canada
+- ✅ Joseph Brant led thousands of Loyalist Mohawk Indians into Canada
 - ✅ Loyalists came from diverse ethnic and religious backgrounds
-- ✅ About **3,000 Black Loyalists** arrived
-- ✅ **1792**: Some moved to **Sierra Leone**
+- ✅ Including **3,000 Black Loyalists**
+
+✅ **1792**: Some Black Loyalists moved to **Sierra Leone** (Africa)
 
 :::info[Pictures (from left to right)]
 
@@ -107,104 +103,158 @@ To continue from here
 :::
 
 ## The Beginnings of Democracy
-- ✅ **1758**: First elected assembly in **Nova Scotia**
-- ✅ PEI (1773), New Brunswick (1785)
-- ✅ **Constitutional Act (1791)**:
-  - Upper Canada (Ontario): English, Protestant
-  - Lower Canada (Quebec): French, Catholic
-- ✅ First elected legislatures
-- 👍 Name **Canada** became official
-- 👍 Region known as **British North America**
+✅ **1758**: First elected assembly in **Halifax, Nova Scotia**
+ 
+✅ Next in Prince Edward Island (1773) and New Brunswick (1785)
+
+✅ **Constitutional Act (1791)** divided the Province of Quebec into:
+- Upper Canada (later Ontario): English, Protestant, Loyalist
+- Lower Canada (later Quebec): French, Catholic 
+- ✅ Grant legislative assemblies elected by the people
+- ✅ Name **Canada** became official
+- 👍 The Atlantic colonies and the two Canadas were known as **British North America**
 
 ## Abolition of Slavery
-- ✅ **1793**: Upper Canada moved toward abolition
-  - Led by **John Graves Simcoe**
-- ✅ **1807**: Slave trade banned
-- ✅ **1833**: Slavery abolished across British Empire
-- 👍 Underground Railroad brought escaped slaves to Canada
+✅ **1793**: Upper Canada, led by Lieutenant Governor John Graves Simcoe, a Loyalist military officer, was first to move toward abolition
+
+✅ **1807**: British Parliament prohibited slave trade
+
+✅ **1833**: Slavery abolished across British Empire
+
+👍 Slaves escaped from the US, followed “the North Star” and settled in Canada via the Underground Railroad, a Christian anti-slavery network.
 
 ## A Growing Economy
-- ✅ Fur trade dominated early economy
-- ✅ Hudson’s Bay Company key employer
-- ✅ Trading posts became major cities
-- ✅ **1832**: Montreal Stock Exchange opened
-- 👍 Economy based on:
-  - Farming
-  - Fur, fish, timber exports
+✅ Companies formed during Frend and English regimes competed for the fur trade
+ 
+✅ Hudson’s Bay Company, with French, British and Aboriginal employees dominates the trade in the northwest
+- from Fort Garry (Winnipeg) and Fort Edmonton
+- to Fort Langley (near Vancouver) and Fort Victoria
+- trading posts that later became cities
+
+✅ **1832**: Montreal Stock Exchange opened
+
+👍 For centuries, Canada's economy was based on:
+- Farming
+- Exporting natural resources: fur, fish, timber
+  - Transported by roads, lakes, rivers and canals
 
 ## The War of 1812: The Fight for Canada
-- ✅ **1812–1814**: U.S. invaded Canada
-- ✅ Defended by:
-  - British troops
-  - Canadian volunteers
-  - First Nations (Chief Tecumseh)
-- ✅ Key figures:
-  - Sir Isaac Brock (died at Queenston Heights)
-  - Charles de Salaberry (Châteauguay, 1813)
-- ✅ Americans burned York (Toronto) in 1813
-- ✅ British burned Washington, D.C. in 1814
-- 👍 War ensured Canada remained **independent of the U.S.**
-- ✅ Border largely established after war
+✅ **1812**: the US invaded Canada but was defeated
+
+✅ Canadian volunteers and First Nations fought alongside British troops to defend Canada
+
+✅ Key figures:
+- Chief Tecumseh led Shawnee (First Nations ally)
+- Sir Isaac Brock
+  - Captured Detroit in July 1812
+  - Died while defending Queenston Heights (near Niagara Falls)
+- Charles de Salaberry
+  - Led 460 French Canadiens soldiers,
+  - turned back 4,000 American invaders at Châteauguay (south of Montreal) in 1813
+
+✅ **1813**: Americans burned Government House and the Parliament Buildings in York (now Toronto)
+
+✅ **1814**: British revenged by burning the White House and other buildings in Washington, D.C.
+- 👍 By Major-General Robert Ross and expedition from Nova Scotia
+- 👍 Ross died in battle soon afterwards and was buried in Halifax
+
+👍 War helped secure Canada's independence from the US
+- ✅ Canada-US border largely established after war of 1812
+- 👍 Today popular historic sites, which are costly Canadian defence system
+  - The Citadels at Halifax and Québec City
+  - The naval drydock at Halifax
+  - Fort Henry at Kingston
 
 ## Rebellions of 1837–38
-- ✅ Reformers wanted faster democracy
-- ✅ Rebellions failed due to lack of support
-- ✅ Rebels defeated; some executed or exiled
+✅ **1830s**: Reformers in Upper and Lower Canada wanted faster democracy
+- Some believed Canada should adopt American republican values
+- Some wanted to join the US
 
-- ✅ Lord Durham Report:
-  - Recommended union of Canadas
-  - Introduced **responsible government**
-  - Proposed assimilation of French Canadians (rejected)
-- ✅ Future Fathers of Confederation:
-  - John A. Macdonald
-  - George-Étienne Cartier
-  - Étienne-Paschal Taché
+✅ Armed rebellions occured in **1837-38**
+- In Area outside Montreal and in Toronto
+- **Failed due to lack of public support**
+- Defeated by British troops and Canadian volunteers
+- Some were hanged or exiled; some exiles later returned to Canada
+
+✅ Lord Durham:
+- An English reformer sent to report on the rebellions
+- Recommended merge of Upper and Lower Canada, and 
+- Introduced **responsible government**
+  - The ministers of the Crown must have majority support of the elected representatives
+- Controversially proposed Canadiens (French Canadians) to assimilate into English-speaking Protestant culture
+
+✅ Some reformers was later became **Fathers of Confederation**
 
 ## Responsible Government
-- ✅ **1840**: Province of Canada formed
-- ✅ **1847–48**: Nova Scotia first to achieve responsible government
-- ✅ **1848–49**: Province of Canada followed
-- 👍 Government must resign if it loses confidence vote
-- ✅ First leader: **Louis-Hippolyte La Fontaine**
+✅ **1840**: Province of Canada formed by uniting Upper and Lower Canada
+
+✅ **1847–48**: Nova Scotia first to achieve responsible government
+
+✅ **1848–49**: Province of Canada followed
+- Introduced by **Lord Elgin**
+
+✅ Same system we have today:
+- 👍 Government must resign if losing confidence vote
+
+✅ First responsible government leader: **Louis-Hippolyte La Fontaine**
+- A champion of democracy and French language rights
 
 ## Confederation
-- ✅ **1864–1867**: Confederation talks
-- ✅ Fathers of Confederation created:
-  - Federal government
-  - Provincial governments
-- ✅ **1867**:
-  - Ontario
-  - Quebec
+✅ **1864–1867**: Fathers of Confederation (Nova Scotia, New Brunswick and the Province of Canada) worked together to create a new country
+- With British support
+- Two levels of government: Federal and Provincial
+- Four original provinces:
+  - Ontario and Quebec (split from Province of Canada)
   - Nova Scotia
   - New Brunswick
-- ✅ **British North America Act (1867)**
-- 👍 **July 1, 1867**: Canada founded
-- ✅ Dominion Day → **Canada Day**
+ 
+✅ **1st July, 1867**: Dominion of Canada was born
+  - Called as "Dominion Day" until 1982
+  - Now called **Canada Day**
+
+✅ **1867**: British Parliament passed the British North America Act
+
+:::info[✅ Fathers of Confederation]
+
+- Sir Étienne-Paschal Taché
+- Sir George-Étienne Cartier
+  - Key architect of Confederation from Quebec
+  - Led Quebec into Confederation
+  - Helped bring the Northwest Territories, Manitoba and British Columbia into Canada
+- Sir John A. Macdonald
+  - Canada's 1st Prime Minister
+
+:::
 
 ## Dominion from Sea to Sea
-- ✅ Term **Dominion of Canada** suggested by **Sir Leonard Tilley**
+✅ **1864**: term **Dominion of Canada** suggested by **Sir Leonard Tilley** (Father of Confederation from New Brunswick)
 - ✅ Inspired by **Psalm 72 - "Dominion from sea to sea and from the river to the ends of the earth."**
-- ✅ Official term for ~100 years
+- Vision of building a powerful, united, wealthy and free country that spanned a continent
+- ✅ Official Constitution term for ~100 years
 
 ## Expansion of the Dominion
-- ✅ 1867 — ON, QC, NS, NB  
+- ✅ 1867 — ON, QC, NS, NB
 - ✅ 1870 — Manitoba, N.W.T.  
-- ✅ 1871 — British Columbia  
-- ✅ 1873 — Prince Edward Island  
-- ✅ 1880 — Arctic Islands  
-- ✅ 1898 — Yukon  
-- ✅ 1905 — Alberta, Saskatchewan  
+- ✅ 1871 — British Columbia
+- ✅ 1873 — Prince Edward Island
+- ✅ 1880 — Transfer of the Arctic Islands (to N.W.T.)
+- ✅ 1898 — Yukon Territory
+- ✅ 1905 — Alberta, Saskatchewan
 - ✅ 1949 — Newfoundland and Labrador  
-- ✅ 1999 — Nunavut  
+- ✅ 1999 — Nunavut
 
 ## Canada’s First Prime Minister
-- ✅ **Sir John A. Macdonald**
-  - Born: January 11, 1815
-  - First PM in 1867
-  - Portrait on $10 bill
-- ✅ **Sir George-Étienne Cartier**
-  - Key Quebec leader
-  - Helped expand Canada westward
+✅ **Sir John A. Macdonald**
+- Born: January 11, 1815 (recognized as Sir John A. Macdonald Day)
+- From Scotland, came to Upper Canada as a child, later became a lawyer in Kingston, ON
+- **First PM in 1867**
+- **Portrait on $10 bill**
+
+:::danger
+
+To be Continue here
+
+:::
 
 ## Challenge in the West
 - ✅ **1869–70**: Red River Resistance
