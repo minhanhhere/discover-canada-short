@@ -352,23 +352,26 @@ At time of Confederation, only adult white males could vote, as was typical then
 ✅ Over **1 million** Canadians and Newfoundlanders (separate British entity) served
 - ✅ **44,000 killed**
 
-✅ Key (loss) events:
+✅ Key (loss) battles:
 - Imperial Japan attack, defence of Hong Kong (1941)
 - Dieppe Raid, coast of France (1942)
 - D-Day / Juno Beach (June 6, 1944)
 
-:::danger
+✅ The Royal Canadian Air Force (RCAF)
+- Provided many aircrew in bombers and fighter planes over Europe
+- Canada trained over 130,000 Allied aircrew, more than any other Commonwealth country, under the British Commonwealth Air Training Plan.
 
-Continue here
-
-:::
+✅ The Royal Canadian Navy (RCN)
+- Canada’s navy excelled in the Battle of the Atlantic, protecting convoys against German submarines, 
+- Canada’s Merchant Navy supplied Britain
+- At the end of WWII, Canada had the world’s 3rd-largest Navy.
 
 ✅ Canada liberated the Netherlands
 
-✅ **May 8, 1945**: Victory in Europe
+✅ **May 8, 1945**: Victory in Europe, German surrendered
 
 ✅ **Aug 14, 1945**: Japan surrendered
 
-✅ Internment of Japanese Canadians
-
-✅ **1988**: Official apology and compensation
+✅ After WWII, the federal government forcibly relocated Japanese Canadians and sold their property without compensation
+- Reason: In the Pacific War, Japan attacked Canada via the Aleutians, Vancouver Island, fire balloons, and mistreated prisoners captured at Hong Kong
+- ✅ **1988**: Official apology and compensation
