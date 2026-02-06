@@ -1,26 +1,24 @@
-## Summary
+## Intro
 
-👍 **Canada’s system of government has three key features:**
-- 👍 Federal state  
-- 👍 Parliamentary democracy  
-- 👍 Constitutional monarchy  
+✅ **Canada’s system of government has 3 key features:**
+- Federal state  
+- Parliamentary democracy  
+- Constitutional monarchy  
 
 ## Federal State
 
-✅ **Canada has four levels of government:**
+✅ **Levels of government:**
 - Federal
-- Provincial
-- Territorial
+- Provincial or Territorial
 - Municipal
 
-✅ **Division of powers (set in 1867):**
-- Defined in the **British North America Act**, now called the **Constitution Act, 1867**
+✅ **British North America Act** (now the **Constitution Act, 1867**) defined the responsibilities of the federal and provincial governments
 
-✅ **Federal government responsibilities:**
+✅ **Federal government responsibilities (national & international):**
 - Defence
 - Foreign policy
 - Interprovincial trade and communications
-- Currency (money)
+- Currency
 - Navigation
 - Criminal law
 - Citizenship
@@ -33,93 +31,83 @@
 - Property and civil rights
 - Highways
 
-✅ **Shared responsibilities (federal + provinces):**
+✅ **Shared responsibilities**
 - Agriculture
 - Immigration
 
-👍 **Key structure facts:**
-- Each province has an **elected Legislative Assembly**
-- Similar in role to the **House of Commons**
-- The **three territories** are not provinces but have elected governments with similar functions
+✅ Each province has its **elected Legislative Assembly**, plays similar role to the **House of Commons** in Ottawa
+
+👍 The **3 northern territories** (with low population) are not provinces but have elected governments with same functions
 
 ## Parliamentary Democracy
 
-✅ **How democracy works in Canada:**
-- Citizens elect representatives to:
-  - The **House of Commons** (federal)
-  - Provincial and territorial legislatures
+✅ In Canada’s parliamentary democracy, the people elect members to:
+- The **House of Commons** (federal)
+- Provincial and territorial legislatures
 
-✅ **Responsibilities of elected representatives:**
+✅ Canadians **18 years or older** should vote in all levels of government (federal, provincial or territorial, municipal elections)
+
+✅ **Responsibilities of elected members:**
 - Pass laws
-- Approve government spending
-- Monitor government actions
-- Hold the government accountable
+- Approve & monitor government spending
+- Keep the government accountable
 
-✅ **Confidence of the House:**
-- Cabinet must keep the support (“confidence”) of the House of Commons
-- Government must resign if it loses a **non-confidence vote**
+✅ Cabinet ministers must keep the "confidence of the House"
+- Must resign if defeated in a **non-confidence vote**
 
-👍 **Parliament has three parts:**
-- 👍 The **Sovereign** (Queen or King)
-- 👍 The **Senate**
-- 👍 The **House of Commons**
+✅ **Parliament has 3 parts:**
+- The **Sovereign** (Queen or King)
+- The **Senate**
+- The **House of Commons**
 
-👍 **Federal government roles:**
-- **Prime Minister**
+✅ Provincial legislature includes:
+- Lieutenant Governor, and
+- The elected Assembly
+
+✅ **Federal government roles:**
+- **Prime Minister** (PM)
   - Chooses Cabinet ministers
   - Directs government operations and policy
-- **House of Commons**
-  - Elected Members of Parliament (MPs)
-  - Elections traditionally every **four years**
+- **House of Commons** (the representative chamber)
+  - Members of Parliament (MPs) elected by the people
+  - Elected traditionally every **four years**
 - **Senate**
-  - Senators appointed by the **Governor General**
-  - Appointment based on advice of the Prime Minister
+  - Senators appointed by the **Governor General**, on the advice of PM
   - Senators serve until age **75**
 
-✅ **Bills (proposed laws):**
-- Must be approved by:
-  - House of Commons
-  - Senate
-- Must receive **Royal Assent**
-  - Given by the **Governor General** on behalf of the Sovereign
+✅ **Bills (proposed new laws):**
+- Must be approved by House of Commons & Senate
+- Must receive **Royal Assent**, granted by the **Governor General** on behalf of the Sovereign
 
-## Making laws
+:::success[How a bill becomes law — The Legislative Process]
 
-### How a bill becomes law — The Legislative Process
+1. **First Reading** – Bill is introduced and printed
+2. **Second Reading** – Members debate the bill's principle
+3. **Committee Stage** – Committee members study the bill clause by clause
+4. **Report Stage** – Members can make other amendments
+5. **Third Reading** – Members debate and vote on the bill (final)
+6. **Senate** – The bill follows a similar above process in the Senate
+7. **Royal Assent** – The bill receives royal assent after being passed by both Houses
 
-👍 **Steps for a bill to become law:**
-1. ✅ **First Reading** – Bill is introduced and printed
-2. ✅ **Second Reading** – Debate on the principle of the bill
-3. ✅ **Committee Stage** – Detailed clause-by-clause study
-4. ✅ **Report Stage** – Further amendments may be made
-5. ✅ **Third Reading** – Final debate and vote
-6. ✅ **Senate** – Similar process in the Senate
-7. ✅ **Royal Assent** – Final approval after both Houses pass the bill
-
-✅ **Citizen responsibility:**
-- Canadians **18 years or older** should vote in:
-  - Federal elections
-  - Provincial or territorial elections
-  - Municipal elections
+:::
 
 ## Constitutional Monarchy
 
 ✅ **Canada’s Head of State:**
-- The **Sovereign** (Queen or King)
-- Position is hereditary
-- Must act according to the **Constitution** and the **rule of law**
+- A **hereditary Sovereign** (Queen or King)
+- Must follows the **Constitution** and the **rule of law**
 
 👍 **Role of the Sovereign:**
 - Part of Parliament
 - Non-partisan role
-- Symbol of:
+- Her (his) Majesty is a symbol of:
   - Canadian sovereignty
   - Constitutional freedoms
-  - National history
+  - Reflection of our history
 
 ✅ **Head of the Commonwealth:**
 - Links Canada with **53 other countries**
-- Commonwealth countries cooperate socially, economically, and culturally
+- Cooperate in social, economic and cultural progress
 
 👍 **Other constitutional monarchies include:**
 - Denmark, Norway, Sweden
@@ -128,43 +116,37 @@
 - Thailand, Japan
 - Jordan, Morocco
 
-✅ **Important distinction:**
+✅ Clear distinction:
 - **Head of State**: the Sovereign
-- **Head of Government**: the **Prime Minister**
+- **Head of Government**: the **Prime Minister**, directs the governing of the country
 
-👍 **Representatives of the Sovereign:**
-- **Governor General**
-  - Represents the Sovereign in Canada
-  - Appointed on advice of the Prime Minister
-  - Term usually **five years**
-- **Lieutenant Governor**
-  - Represents the Sovereign in each province
-  - Appointed by the Governor General on advice of the Prime Minister
-  - Term usually **five years**
+✅ **Governor General**
+- Represents the Sovereign in Canada
+- Appointed on advice of the Prime Minister
+- Term usually **5 years**
 
-✅ **Three branches of government:**
-- Executive
-- Legislative
-- Judicial  
+✅ **Lieutenant Governor**
+- Represents the Sovereign in each province
+- Appointed by the Governor General on advice of the Prime Minister
+- Term usually **5 years**
+
+✅ **3 branches of government:**
+- **Executive**
+- **Legislative**
+- **Judicial**  
 - Work together to protect rights and freedoms
 
-✅ **Provincial and territorial legislatures:**
-- Pass provincial and territorial laws
-- Members are called:
+✅ **Provincial/territorial legislatures:**
+- Pass provincial/territorial laws
+- Depending on the province or territory, members are called:
   - MLAs (Members of the Legislative Assembly)
   - MNAs (Members of the National Assembly)
   - MPPs (Members of Provincial Parliament)
   - MHAs (Members of the House of Assembly)
 
-✅ **Provincial leadership:**
-- **Premier**
-  - Role similar to the Prime Minister
-- **Lieutenant Governor**
-  - Role similar to the Governor General
+✅ In each province
+- **Premier**: role similar to the Prime Minister
+- **Lieutenant Governor**: Role similar to the Governor General
 
-✅ **Territories:**
-- Represented by a **Commissioner**
-- Commissioner represents the federal government
-- Mainly a ceremonial role
-
-### Canada’s System of Government
+✅ In each of the 3 territories
+- **Commissioner**: a ceremonial role represents the federal government
