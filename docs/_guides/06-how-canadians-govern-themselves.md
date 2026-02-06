@@ -93,6 +93,9 @@
 
 ## Constitutional Monarchy
 
+✅ CANADA’S SYSTEM OF GOVERNMENT 
+![Canada's Government System](../assets/government-system.png)
+
 ✅ **Canada’s Head of State:**
 - A **hereditary Sovereign** (Queen or King)
 - Must follows the **Constitution** and the **rule of law**
