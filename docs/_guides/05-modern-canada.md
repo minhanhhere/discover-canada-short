@@ -1,121 +1,87 @@
 ## Trade and Economic Growth
 
-✅ **Post–Second World War prosperity**
-- 👍 Record economic growth after 1945
-- Trade barriers from the Great Depression were reduced
+✅ **Postwar Canada enjoyed record prosperity and material progress**
 
-✅ **International trade**
-- 👍 General Agreement on Tariffs and Trade (GATT)
-  - Opened global trade after the Depression
-  - Later became the **World Trade Organization (WTO)**
+✅ The world’s restrictive trading policies in the Depression were opened 
+- By treaties as General Agreement on Tariffs and Trade **(GATT)**
+- Later became the **World Trade Organization (WTO)**
 
-✅ **Energy**
-- 👍 Oil discovered in **Alberta in 1947**
-- Start of Canada’s modern energy industry
+✅ Oil discovered in **Alberta in 1947** began Canada’s modern energy industry
 
-✅ **Living standards**
-- 👍 By **1951**, most Canadians could afford:
-  - Adequate food
-  - Shelter
-  - Clothing
-- 👍 Between **1945–1970**, Canada had one of the strongest economies among industrialized nations
-- Today, Canada has one of the **highest standards of living in the world**
-- Trade with the **United States** is especially important
+✅ In 1951, most Canadians could afford adequate food, shelter and clothing
 
-✅ **Social programs**
-- 👍 **Unemployment Insurance** introduced in **1940**
-  - Now called **Employment Insurance**
+👍 Between **1945–1970**, Canada had one of the strongest economies among industrialized nations
+
+✅ Today, Canada has one of the **highest standards of living in the world**
+
+✅ Trade with the **United States** is especially important
+
+✅ Prosperity grew -> **Social assistance programs**
+- 👍 The **Canada Health Act** ensures common elements and a basic standard of coverage
+- 👍 **Unemployment Insurance**, (now called **Employment Insurance**) introduced in **1940**
 - 👍 **Old Age Security** created in **1927**
 - 👍 **Canada Pension Plan (CPP)** and **Quebec Pension Plan (QPP)** started in **1965**
-- 👍 **Canada Health Act**
-  - Ensures common standards for health care across Canada
-- 👍 Public education is funded by **provinces and territories**
+- 👍 Public education is provided by **provinces and territories**
 
 ## International Engagement
 
-✅ **Growing independence**
-- Canada gradually gained autonomy from Britain
-- Became active in international affairs
+✅ Canada developed its autonomy gradually from Britain
 
-✅ **Cold War**
-- Eastern Europe controlled by the **Soviet Union**
-- Led by dictator **Josef Stalin**
+✅ In **Cold War**
+- Eastern Europe controlled by the **Soviet Union**, led by dictator **Josef Stalin**
+- Canada joined **NATO** (with Alliance) and **NORAD** (with the US)
 
-✅ **Military alliances**
-- 👍 **NATO (North Atlantic Treaty Organization)**
-- 👍 **NORAD (North American Aerospace Defense Command)** with the United States
+✅ Canada is a member of the **United Nations (UN)**
 
-✅ **United Nations**
-- 👍 Canada is a member of the **United Nations (UN)**
+✅ Canada defended South Korean in the **Korean War (1950–1953)**
+- Casualties: 500 dead and 1,000 wounded
 
-✅ **Korean War**
-- 👍 Canada fought in the **Korean War (1950–1953)**
-- Casualties:
-  - About **500 dead**
-  - About **1,000 wounded**
+✅ **UN Peacekeeping missions in Egypt, Cyprus and Haiti**
 
-✅ **Peacekeeping and security**
-- Canada participated in UN peacekeeping missions in:
-  - Egypt
-  - Cyprus
-  - Haiti
-- Other missions:
-  - Former Yugoslavia
-  - Afghanistan
+✅ **Other international security operations** in the former Yugoslavia and Afghanistan
 
 ## Canada and Quebec
 
-✅ **Postwar Quebec**
-- French-Canadian culture grew strongly
-- Major changes in the **1960s** called the **Quiet Revolution**
+✅ **Quiet Revolution**: Quebec changed rapidly in the 1960s
 
-✅ **Quebec sovereignty**
-- Some Quebecers wanted to separate from Canada
+✅ **Many Quebecers sought to separate from Canada**
 
-✅ **Bilingualism**
-- 👍 **Royal Commission on Bilingualism and Biculturalism** created in **1963**
-- 👍 Led to the **Official Languages Act (1969)**
-  - Guarantees French and English services in the federal government
+✅ **1963**, Parliament established the **Royal Commission on Bilingualism and Biculturalism**
+- 👍 Led to the **Official Languages Act (1969)**, which guarantees French and English services in the federal government
 
-✅ **Francophone cooperation**
-- 👍 Canada helped found **La Francophonie** in **1970**
-  - Organization of French-speaking countries
+✅ **1970**, Canada helped found **La Francophonie**, an international association of French-speaking countries
 
-✅ **Referendums**
+✅ **Quebec sovereignty movement**
 - 👍 **1980 referendum**: sovereignty defeated
 - 👍 **1995 referendum**: sovereignty defeated again
 
-✅ **Constitution**
-- 👍 Constitution amended in **1982**
-- Quebec did **not** agree to the amendment
+✅ **1982** the Constitution was amended without the agreement of Quebec
 - Quebec’s autonomy remains an ongoing issue
 
 ## A Changing Society
 
-✅ **Social change**
+✅ Over 50 years of **Social change**
 - Canada became more open and flexible
-- More access to:
-  - Secondary education
-  - Post-secondary education
+- More access to: Secondary & Post-secondary education
 - More women entered professional work
 
-✅ **Voting rights**
-- 👍 Japanese Canadians gained the vote in **1948**
-- 👍 Aboriginal people gained the vote in **1960**
-- 👍 Today, all citizens **18 years or older** may vote
+✅ Asian Canadians **restored voting rights**
+- 👍 Japanese Canadians, in **1948**
+- 👍 Aboriginal people, in **1960**
+
+✅ Today, all citizens **18 years or older** may vote
 
 ✅ **Refugees**
-- 👍 About **37,000 Hungarian refugees** came to Canada in **1956**
-- 👍 Over **50,000 Vietnamese refugees** came after **1975**
+- 👍 About **37,000 Hungarian refugees** escaped Soviet tyranny, **1956**
+- 👍 Over **50,000 Vietnamese refugees**, after **1975**
 
 ✅ **Multiculturalism**
 - By the **1960s**, one-third of Canadians were neither British nor French in origin
-- Cultural diversity is especially strong in Canadian cities
-- Diversity is seen as enriching Canadian society
+- Cultural diversity is strong in Canadian cities, enriching Canadian society
 
 ✅ **Arts and literature**
 - Canadian artists are recognized at home and internationally
-- Notable writers include:
+- Notable writers:
   - Stephen Leacock
   - Louis Hémon
   - Pauline Johnson
@@ -133,42 +99,32 @@
 ## Arts and Culture in Canada
 
 ✅ **Visual arts**
-- 👍 **Group of Seven** (founded **1920**)
-  - Famous for paintings of Canada’s wilderness
-- 👍 **Emily Carr**
-  - Painted West Coast forests and Indigenous art
-- 👍 **Les Automatistes** (Quebec, 1950s)
-  - Abstract modern art
-  - Jean‑Paul Riopelle
-- 👍 **Louis‑Philippe Hébert**
-  - Sculptor of historical figures
-- 👍 **Kenojuak Ashevak**
-  - Pioneer of modern Inuit art
+- 👍 **Group of Seven** (founded **1920**): famous for paintings of Canada’s wilderness
+- 👍 **Emily Carr**: painted West Coast forests and Aboriginal artifacts
+- 👍 **Les Automatistes** of Quebec (aka Modern abstract art in 1950s), most notably Jean‑Paul Riopelle
+- 👍 **Louis‑Philippe Hébert**: sculptor of historical figures
+- 👍 **Kenojuak Ashevak**: pioneered modern Inuit art with etchings, prints and soapstone sculptures
 
 ✅ **Performing arts**
-- Canada has many regional theatres
+- Many regional theatres
 - Internationally respected performing arts companies
 
 ✅ **Film and television**
-- 👍 Denys Arcand – award‑winning filmmaker
-- Other notable filmmakers:
-  - Norman Jewison
-  - Atom Egoyan
+- 👍 Denys Arcand – international award‑winning filmmaker
+- Other notable filmmakers: Norman Jewison & Atom Egoyan
 - Canadian television is widely popular
 
 ✅ **Sports**
 - 👍 Basketball invented by **James Naismith** in **1891**
-- 👍 Ice hockey is Canada’s national sport
-- 👍 **Donovan Bailey**
-  - Double Olympic gold medalist (1996)
-- 👍 **Chantal Petitclerc**
-  - Paralympic gold medalist
-- 👍 **Wayne Gretzky**
-  - Played for the **Edmonton Oilers (1979–1988)**
+- 👍 **Ice hockey is Canada’s national sport**
+- 👍 **Donovan Bailey**: world record sprinter and double Olympic gold medalist (1996)
+- 👍 **Chantal Petitclerc**: world champion wheelchair racer and Paralympic gold medalist
+- 👍 **Wayne Gretzky**: one of greatest hockey players of all time, played for the **Edmonton Oilers (1979–1988)**
 
 ✅ **Canadian heroes**
 - 👍 **Terry Fox**
-  - Began the **Marathon of Hope** in **1980**
+  - Lost his right leg to cancer at age of 18
+  - Began cross-country **Marathon of Hope** in **1980** (unable to finish)
   - Raised money for cancer research
 - 👍 **Rick Hansen**
   - Circled the world in a wheelchair in **1985**
@@ -188,26 +144,21 @@
   - Michael Smith
   - Bertram Brockhouse
 
-✅ **Canadian football**
-- Canadian Football League (**CFL**)
-- Championship trophy: **Grey Cup**
-- 👍 Donated in **1909** by **Lord Grey**, Governor General
+✅ **Canadian football** (differ from American's): The championship trophy of Canadian Football League (**CFL**) is **Grey Cup**, which is donated by **Lord Grey**, the Governor General, in **1909**
 
 ## Great Canadian Discoveries and Inventions
 
 ✅ **Key inventors and inventions**
-- 👍 **Alexander Graham Bell** — telephone
-- 👍 **Joseph‑Armand Bombardier** — snowmobile
-- 👍 **Sir Sandford Fleming** — standard time zones
-- 👍 **Mathew Evans & Henry Woodward** — electric light bulb
-- 👍 **Reginald Fessenden** — wireless voice radio
-- 👍 **Dr. Wilder Penfield** — pioneering brain surgeon
-- 👍 **Dr. John A. Hopps** — cardiac pacemaker
-- 👍 **SPAR Aerospace / NRC** — Canadarm
-- 👍 **Mike Lazaridis & Jim Balsillie (RIM)** — BlackBerry
+- **Alexander Graham Bell** — telephone
+- **Joseph‑Armand Bombardier** — snowmobile
+- **Sir Sandford Fleming** — standard time zones
+- **Mathew Evans & Henry Woodward** — electric light bulb
+- **Reginald Fessenden** — wireless voice radio
+- **Dr. Wilder Penfield** — pioneering brain surgeon
+- **Dr. John A. Hopps** — cardiac pacemaker, save patient with heart disorder
+- **SPAR Aerospace / NRC** — Canadarm, outer space robotic arm
+- **Mike Lazaridis & Jim Balsillie (RIM)** — BlackBerry
 
 ✅ **Museums and historic sites**
 - Museums and national historic sites exist across Canada
-- Run by organizations such as:
-  - Virtual Museum of Canada
-  - Parks Canada
+- Run by organizations such as: **Virtual Museum of Canada** or **Parks Canada**
