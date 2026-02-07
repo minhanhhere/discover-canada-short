@@ -8,7 +8,7 @@ import TabItem from '@theme/TabItem';
 
 [Go to the official content](https://www.canada.ca/en/immigration-refugees-citizenship/corporate/publications-manuals/discover-canada/read-online/oath-citizenship.html)
 
-<Tabs>
+<Tabs groupId="languages">
   <TabItem value="english" label="English version" default>
 > I swear (or affirm)  
 > That I will be faithful  

@@ -1,159 +1,192 @@
-## Summary
+import Tabs from '@theme/Tabs';
+import TabItem from '@theme/TabItem';
 
-- 👍 Canadian symbols are **objects, events, and people** with special meaning  
-- 👍 They explain **Canadian identity** and what it means to be Canadian  
-- ✅ Symbols appear throughout the *Discover Canada* guide  
+## The Canadian Crown 👑
 
-## The Canadian Crown
+✅ **The Crown**: symbol of the state in Canada for **400 years**
 
-- ✅ The Crown has been a symbol of the state in Canada for **400 years**
-- ✅ Canada has been a **constitutional monarchy** since **Confederation in 1867**
-- 👍 Queen Victoria was monarch at Confederation
-- 👍 Queen Elizabeth II:
-  - Queen of Canada since **1952**
-  - Golden Jubilee: **2002**
+✅ Canada has been a **constitutional monarchy** since **Confederation in 1867**
+- Start from Queen Victoria’s reign, 1867
+- Queen Elizabeth II, since **1952**
+  - Golden Jubilee (50 years): **2002**
   - Diamond Jubilee (60 years): **2012**
-- ✅ The Crown represents **government authority**, including:
-  - Parliament
-  - Provincial legislatures
-  - Courts
-  - Police services
-  - Canadian Forces
+
+✅ The Crown: **symbol of Government**, including:
+- Parliament
+- Provincial legislatures
+- Courts
+- Police services
+- Canadian Forces
 
 ## Flags in Canada
 
-- ✅ The current Canadian flag was first raised in **1965**
-- 👍 Red–white–red design:
-  - Inspired by the **Royal Military College** flag (founded 1876)
-- ✅ Red and white:
-  - Colours of **France and England** since the Middle Ages
-  - National colours of Canada since **1921**
-- 👍 The **Union Jack** is Canada’s **official Royal Flag**
-- ✅ The **Canadian Red Ensign** served as the flag for about **100 years**
-- ✅ Provinces and territories each have their **own flags**
+✅ The current Canadian flag 🇨🇦 was first raised in **1965**
+- ✅ Red–white–red design: inspired by the **Royal Military College** flag (founded 1876 in Kingston)
+- ✅ Red and white: colours of **France and England** since the Middle Ages, national colours of Canada since **1921**
 
-## The Maple Leaf
+✅ The **Union Jack** 🇬🇧: official **Royal Flag**
 
-- 👍 Canada’s **best-known symbol**
-- ✅ Used by French Canadians since the **1700s**
-- ✅ On uniforms and insignia since the **1850s**
-- ✅ Appears on:
-  - Military insignia
-  - Soldiers’ headstones in Canada and overseas
+✅ The **Canadian Red Ensign** was Canada's flag for about **100 years**
 
-## The Fleur-de-lys
+✅ Provinces and territories each have their **own flags**
 
-- ✅ Adopted by the French king in **496**
-- 👍 Symbol of **French royalty** for over **1,000 years**
-- ✅ Used in **New France**
-- ✅ Revived at **Confederation**
-- ✅ Included in the **Canadian Red Ensign**
-- ✅ In **1948**, Quebec adopted its own flag:
-  - Based on the **Cross** and the **fleur-de-lys**
+## The Maple Leaf 🍁
+
+✅ Canada’s **best-known symbol**
+
+✅ Adopted by French-Canadians since the **1700s**
+
+✅ On uniforms and insignia (and military insignia) since the **1850s**
+
+✅ Carved into soldiers’ headstones 🪦 in Canada and overseas
+
+## The Fleur-de-lys (lily flower)
+✅ Adopted by the French king in **496**
+- 👍 Symbol of **French royalty** for over **1,000 years**, including **New France**
+
+✅ Revived at **Confederation**
+- Included in the **Canadian Red Ensign**
+
+✅ In **1948**, Quebec adopted its own flag, based on the **Cross** and the **Fleur-de-lys** 
 
 ## Coat of Arms and Motto
 
-- ✅ Adopted after the **First World War**
-- 👍 National motto: *A Mari Usque Ad Mare*
-  - Means **“from sea to sea”**
-- ✅ Coat of arms includes symbols of:
-  - England
-  - France
-  - Scotland
-  - Ireland
-  - Red maple leaves
-- ✅ Seen on:
-  - Dollar bills
-  - Government documents
-  - Public buildings
+✅ National pride after the First World War
+
+✅ Motto **A Mari Usque Ad Mare**: meaning **"from sea to sea"**
+
+✅ **Coat of arms**: includes symbols of England, France, Scotland, Ireland, and red maple leaves
+
+![Coat of Arms](../assets/coat-of-arms.svg)
+
+✅ Appears on dollar bills, government documents, public buildings
 
 ## Parliament Buildings
 
-- ✅ Located in **Ottawa**
-- ✅ Architectural influences:
-  - French
-  - English
-  - Aboriginal
-  - Gothic Revival (Victorian era)
-- ✅ Completed in the **1860s**
-- ✅ Centre Block:
-  - Destroyed by fire in **1916**
-  - Rebuilt in **1922**
-- ✅ Library of Parliament:
-  - Only part of the original building still standing
-- ✅ Peace Tower:
-  - Completed in **1927**
-  - Memorial to the **First World War**
-- ✅ Memorial Chamber:
-  - Contains **Books of Remembrance**
-  - Names of Canadians who died in wars or on duty
-- ✅ Provincial legislatures:
-  - Quebec: **French Second Empire style**
-  - Others: Baroque, Romanesque, neoclassical
-  - Reflect **Greco-Roman democratic heritage**
+✅ Located in **Ottawa**, completed in the **1860s**
+- ✅ The towers, arches, sculptures and stained-glass of the Parliament Buildings embody the **French, English and Aboriginal traditions and the Gothic Revival architecture** popular in the time of Queen Victoria
+- ✅ **Centre Block**: is destroyed by accidental fire in **1916**, rebuilt in **1922**
+- ✅ **Library of Parliament** is the remaining part of the **original** building
+- ✅ **The Peace Tower** was completed in 1927 in **memory of the First World War**. The **Memorial Chamber** within the tower contains **Books of Remembrance**, written the names of Canadians who died serving in wars or on duty
+
+✅ Provincial legislatures:
+- **Quebec National Assembly**: French Second Empire style
+- **Other provinces' legislatures**: Baroque, Romanesque, neoclassical style, reflect **Greco-Roman democratic heritage**
 
 ## Popular Sports
 
-- ✅ **Hockey**:
-  - Most popular spectator sport
-  - National **winter sport**
-  - Developed in Canada in the **1800s**
-- ✅ **Stanley Cup**:
-  - Awarded by the NHL
-  - Donated by **Lord Stanley** in **1892**
-- ✅ **Clarkson Cup**:
-  - Women’s hockey championship
-  - Established in **2005**
-  - By **Adrienne Clarkson**, 26th Governor General
-- 👍 Other popular sports:
-  - Canadian football (second most popular)
-  - Curling (introduced by Scottish pioneers)
-  - Lacrosse (official **summer sport**, Aboriginal origin)
-  - Soccer (most registered players)
+✅ **Hockey** 🏒
+- Most popular spectator sport
+- National **winter sport**
+- Developed in Canada in the **1800s**
+- Young Canadians love hockey: play at schools, road/street hockey, collect hockey cards, etc
+
+✅ **Stanley Cup**
+- Awarded by the **NHL (National Hockey League)**
+- Donated by **Lord Stanley** (the Governor General) in **1892**
+
+✅ **Clarkson Cup**
+- Women’s hockey championship
+- Established by **Adrienne Clarkson** (26th Governor General) in **2005**
+
+✅ Other popular sports:
+- Canadian football: **2nd most popular**
+- Curling: introduced by Scottish pioneers
+- Lacrosse (Aboriginal origin): **official summer sport**,
+- Soccer: **most registered players**
 
 ## The Beaver
 
-- ✅ Early symbol of the **Hudson’s Bay Company**
-- ✅ Adopted in **1834** by the St. Jean Baptiste Society
-- 👍 Symbol of **hard work and industry**
-- ✅ Appears on:
-  - Five-cent coin (nickel)
-  - Coats of arms of **Saskatchewan** and **Alberta**
-  - City arms (e.g., Montreal, Toronto)
+✅ Early symbol of the **Hudson’s Bay Company** centuries ago
+
+✅ **1834** emblem of the St. Jean Baptiste Society, a French-Canadian patriotic association; also adopted by other groups
+
+👍 Symbol of **hard work and industry**
+
+✅ Appears on: five-cent coin (the **nickel**), coats of arms of Saskatchewan and Alberta, city arms (e.g., Montreal, Toronto)
 
 ## Canada’s Official Languages
 
-- ✅ Official languages: **English and French**
-- 👍 Anglophones and Francophones:
-  - Have lived together for **300+ years**
-- ✅ Citizenship requirement:
-  - Adequate knowledge of **English or French**
-  - Applicants **55+ years old** are exempt
-- ✅ *Official Languages Act* (1969):
-  - Equality of English and French in Parliament and government
-  - Support minority language communities
-  - Promote language equality in society
+✅ Official languages: **English and French**
+
+✅ English speakers (Anglophones) and French speakers (Francophones) have lived together in Canada for **over 300 years**
+
+✅ Must have **adequate knowledge of English or French** to become a Canadian citizen (exemption for applicants **over 55 years old**)
+
+✅ *Official Languages Act* (1969):
+- **Equality of English and French** in Parliament and government
+- Support **minority language communities**
+- Promote language equality in society
 
 ## National Anthem
 
-- ✅ **O Canada**
-- ✅ Proclaimed national anthem in **1980**
-- ✅ First sung in **1880** in Québec City
-- ✅ English and French versions have **different lyrics**
+✅ **O Canada** was proclaimed **national anthem in 1980**
+- **First sung in Québec City** in 1880
+- **English and French versions** have different wordings
 
-**O Canada (English)**  
-- Key opening line: *“O Canada! Our home and native land!”*  
-- Ends with: *“We stand on guard for thee”*
+:::info[Lyrics]
 
-**Ô Canada (French)**  
-- Key theme: protection of homes and rights  
-- Ends with: *“Protégera nos foyers et nos droits”*
+<Tabs groupId="languages">
+  <TabItem value="english" label="English version" default>
+**O Canada**  
+O Canada! Our home and native land!  
+True patriot love in all thy sons command. 
+With glowing hearts we see thee rise. 
+The true North strong and free!  
+From far and wide, O Canada we stand   
+on guard for thee  
+God keep our land glorious and free!    
+O Canada, we stand on guard for thee  
+O Canada, we stand on guard for thee
+  </TabItem>
+  <TabItem value="french" label="French version">
+**Ô Canada**  
+O Canada! Terre de nos aïeux,  
+Ton front est ceint de fleurons glorieux!  
+Car ton bras sait porter l’épée,  
+Il sait porter la croix!  
+Ton histoire est une épopée  
+Des plus brillants exploits.  
+Et ta valeur, de foi trempée,  
+Protégera nos foyers et nos droits.  
+Protégera nos foyers et nos droits.  
+  </TabItem>
+</Tabs>
+
+:::
 
 ## Royal Anthem
 
-- ✅ Royal Anthem: **“God Save the Queen (or King)”**
-- ✅ Used to honour the **Sovereign**
-- ✅ May be played or sung on official occasions
+✅ Royal Anthem: **“God Save the Queen (or King)”**
+- Used to honour the **Sovereign**
+- May be played or sung on official occasions
+
+:::info[Lyrics]
+
+<Tabs groupId="languages">
+  <TabItem value="english" label="English version" default>
+**God Save the Queen**  
+God Save our gracious Queen!  
+Long live our noble Queen!  
+God save The Queen!  
+Send her victorious,  
+Happy and glorious,  
+Long to reign over us,  
+God save The Queen!  
+  </TabItem>
+  <TabItem value="french" label="French version">
+**Dieu protège la Reine**  
+Dieu protège la Reine!  
+De sa main souveraine!  
+Vive la Reine!  
+Qu’un règne glorieux,  
+Long et victorieux,  
+Rende son peuple heureux,  
+Vive la Reine!  
+  </TabItem>
+</Tabs>
+
+:::
 
 ## The Order of Canada and Other Honours
 
@@ -186,17 +219,17 @@
 
 ## National Public Holidays and Other Important Dates
 
-- ✅ New Year’s Day — January 1  
-- ✅ Sir John A. Macdonald Day — January 11  
-- ✅ Good Friday — Friday before Easter  
-- ✅ Easter Monday — Monday after Easter  
-- ✅ Vimy Day — April 9  
-- ✅ Victoria Day — Monday before May 25  
-- ✅ Fête Nationale (Quebec) — June 24  
-- ✅ Canada Day — July 1  
-- ✅ Labour Day — First Monday in September  
-- ✅ Thanksgiving — Second Monday in October  
-- ✅ Remembrance Day — November 11  
-- ✅ Sir Wilfrid Laurier Day — November 20  
-- ✅ Christmas Day — December 25  
-- ✅ Boxing Day — December 26
+- 🎆 New Year’s Day — January 1
+- 🏛️ Sir John A. Macdonald Day — January 11
+- ✝️ Good Friday — Friday before Easter Sunday
+- 🐣 Easter Monday — Monday after Easter Sunday
+- 🎖️ Vimy Day — April 9
+- 👑 Victoria Day — Monday before May 25 (Sovereign’s Birthday)
+- ️⚜️ Fête Nationale (Quebec) — June 24 (Feast of St. John the Baptist)
+- 🇨🇦 Canada Day — July 1
+- 👷 Labour Day — First Monday in September  
+- 🙏 Thanksgiving — Second Monday in October  
+- ️🕯️ Remembrance Day — November 11
+- 🇫🇷 Sir Wilfrid Laurier Day — November 20  
+- 🎄 Christmas Day — December 25
+- 🎁 Boxing Day — December 26
