@@ -128,10 +128,11 @@ import TabItem from '@theme/TabItem';
 
 <Tabs groupId="languages">
   <TabItem value="english" label="English version" default>
-**O Canada**  
+### **O Canada**  
+
 O Canada! Our home and native land!  
-True patriot love in all thy sons command. 
-With glowing hearts we see thee rise. 
+True patriot love in all thy sons command  
+With glowing hearts we see thee rise  
 The true North strong and free!  
 From far and wide, O Canada we stand   
 on guard for thee  
@@ -140,7 +141,8 @@ O Canada, we stand on guard for thee
 O Canada, we stand on guard for thee
   </TabItem>
   <TabItem value="french" label="French version">
-**Ô Canada**  
+### **Ô Canada**  
+
 O Canada! Terre de nos aïeux,  
 Ton front est ceint de fleurons glorieux!  
 Car ton bras sait porter l’épée,  
@@ -165,7 +167,8 @@ Protégera nos foyers et nos droits.
 
 <Tabs groupId="languages">
   <TabItem value="english" label="English version" default>
-**God Save the Queen**  
+### **God Save the Queen**  
+
 God Save our gracious Queen!  
 Long live our noble Queen!  
 God save The Queen!  
@@ -175,7 +178,8 @@ Long to reign over us,
 God save The Queen!  
   </TabItem>
   <TabItem value="french" label="French version">
-**Dieu protège la Reine**  
+### **Dieu protège la Reine**  
+
 Dieu protège la Reine!  
 De sa main souveraine!  
 Vive la Reine!  
@@ -190,32 +194,28 @@ Vive la Reine!
 
 ## The Order of Canada and Other Honours
 
-- ✅ Canada recognizes outstanding citizens with **honours**
-- 👍 Types of honours:
-  - Orders
-  - Decorations
-  - Medals
-- ✅ Canada created its own honours system in **1967**
-  - Centennial of Confederation
-- ✅ Highest civilian order: **Order of Canada**
-- ✅ Canadians may **nominate** others for honours
+✅ Outstanding citizens are awarded with **honours**, including:
+- Orders
+- Decorations
+- Medals
+
+✅ In 1967 (centennial of Confederation) Canada started its own honours system with the **Order of Canada**, after using British honours for many years.
+
+✅ Canadians may **nominate** others for honours
 
 ## The Victoria Cross
 
-- ✅ **Highest military honour** in Canada
-- ✅ Awarded for:
-  - Extreme bravery
-  - Valour
-  - Self-sacrifice
-  - Devotion to duty in combat
-- ✅ Awarded to **96 Canadians** since **1854**
-- ✅ Notable recipients:
-  - Alexander Roberts Dunn – first Canadian V.C. (Crimean War, 1854)
-  - William Hall – first Black V.C. recipient (Indian Rebellion, 1857)
-  - Filip Konowal – first V.C. recipient not born in British Empire (1917)
-  - Billy Bishop – First World War flying ace
-  - Paul Triquet – Second World War, Italy (1943)
-  - Robert Hampton Gray – last Canadian V.C. recipient (1945)
+✅ **Highest military honour** in Canada, awared for exceptional bravery, valour, self-sacrifice, extreme devotion to duty in combat
+
+✅ Awarded to **96 Canadians** since **1854**
+
+✅ Notable recipients:
+- Lieutenant **Alexander Roberts Dunn** (Toronto): **first Canadian V.C**. (Crimean War, 1854)
+- **Able Seaman William Hall** of Horton, Nova Scotia: **first Black V.C**. recipient (Indian Rebellion, 1857)
+- **Corporal Filip Konowal** (Ukraine): **first V.C. recipient not born in British Empire** (Battle of Hill 70, 1917)
+- Captain Billy Bishop (Owen Sound, Ontario): WWI flying ace, later honoured Air Marshal by RCAF
+- Captain Paul Triquet of Cabano, Quebec: leading his men and tanks in WWII (Italy, 1943), later a Brigadier
+- Lieutenant **Robert Hampton Gray** (Trail, BC): bombing & sinking a Japanese warship few days efore end of WWII, **last Canadian V.C**. recipient (1945)
 
 ## National Public Holidays and Other Important Dates
 
