@@ -18,9 +18,9 @@ import TabItem from '@theme/TabItem';
 - Police services
 - Canadian Forces
 
-## Flags in Canada
+## Flags in Canada 🇨🇦
 
-✅ The current Canadian flag 🇨🇦 was first raised in **1965**
+✅ The current Canadian flag was first raised in **1965**
 - ✅ Red–white–red design: inspired by the **Royal Military College** flag (founded 1876 in Kingston)
 - ✅ Red and white: colours of **France and England** since the Middle Ages, national colours of Canada since **1921**
 
@@ -40,7 +40,7 @@ import TabItem from '@theme/TabItem';
 
 ✅ Carved into soldiers’ headstones 🪦 in Canada and overseas
 
-## The Fleur-de-lys (lily flower)
+## The Fleur-de-lys (lily flower) ⚜️
 
 ![Fleur-de-lys](../assets/symbol-de-lys.png)
 
@@ -64,7 +64,7 @@ import TabItem from '@theme/TabItem';
 
 ✅ Appears on dollar bills, government documents, public buildings
 
-## Parliament Buildings
+## Parliament Buildings 🏛️
 
 ✅ Located in **Ottawa**, completed in the **1860s**
 - ✅ The towers, arches, sculptures and stained-glass of the Parliament Buildings embody the **French, English and Aboriginal traditions and the Gothic Revival architecture** popular in the time of Queen Victoria
@@ -98,7 +98,7 @@ import TabItem from '@theme/TabItem';
 - Lacrosse (Aboriginal origin): **official summer sport**,
 - Soccer: **most registered players**
 
-## The Beaver
+## The Beaver 🦫
 
 ✅ Early symbol of the **Hudson’s Bay Company** centuries ago
 
@@ -121,7 +121,7 @@ import TabItem from '@theme/TabItem';
 - Support **minority language communities**
 - Promote language equality in society
 
-## National Anthem
+## National Anthem 🫡
 
 ✅ **O Canada** was proclaimed **national anthem in 1980**
 - **First sung in Québec City** in 1880
@@ -206,7 +206,7 @@ Vive la Reine!
 
 ✅ Canadians may **nominate** others for honours
 
-## The Victoria Cross
+## The Victoria Cross 🎖️
 
 ✅ **Highest military honour** in Canada, awared for exceptional bravery, valour, self-sacrifice, extreme devotion to duty in combat
 
