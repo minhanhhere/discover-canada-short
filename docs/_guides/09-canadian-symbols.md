@@ -41,6 +41,9 @@ import TabItem from '@theme/TabItem';
 ✅ Carved into soldiers’ headstones 🪦 in Canada and overseas
 
 ## The Fleur-de-lys (lily flower)
+
+![Fleur-de-lys](../assets/symbol-de-lys.png)
+
 ✅ Adopted by the French king in **496**
 - 👍 Symbol of **French royalty** for over **1,000 years**, including **New France**
 
