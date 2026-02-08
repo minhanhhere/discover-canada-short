@@ -3,6 +3,8 @@ import TabItem from '@theme/TabItem';
 
 ## The Canadian Crown 👑
 
+![The Canadian Crown](../assets/symbol-the-crown.webp)
+
 ✅ **The Crown**: symbol of the state in Canada for **400 years**
 
 ✅ Canada has been a **constitutional monarchy** since **Confederation in 1867**
@@ -18,15 +20,23 @@ import TabItem from '@theme/TabItem';
 - Police services
 - Canadian Forces
 
-## Flags in Canada 🇨🇦
+## Flags in Canada
 
 ✅ The current Canadian flag was first raised in **1965**
+
+![Canada Flag](../assets/symbol-canada-flag.svg)
+
 - ✅ Red–white–red design: inspired by the **Royal Military College** flag (founded 1876 in Kingston)
 - ✅ Red and white: colours of **France and England** since the Middle Ages, national colours of Canada since **1921**
 
-✅ The **Union Jack** 🇬🇧: official **Royal Flag**
+✅ The **Union Jack**: official **Royal Flag**
+
+![Union Jack Flag](../assets/symbol-union-jack-flag.svg)
 
 ✅ The **Canadian Red Ensign** was Canada's flag for about **100 years**
+
+Canada Red Ensign Flag(1868–1921)  
+![Canada Red Ensign Flag](../assets/symbol-red-ensign-flag.svg)
 
 ✅ Provinces and territories each have their **own flags**
 
@@ -66,6 +76,8 @@ import TabItem from '@theme/TabItem';
 
 ## Parliament Buildings 🏛️
 
+![Canadaian Parliament Buildings](../assets/symbol-parliament-buildings.jpg)
+
 ✅ Located in **Ottawa**, completed in the **1860s**
 - ✅ The towers, arches, sculptures and stained-glass of the Parliament Buildings embody the **French, English and Aboriginal traditions and the Gothic Revival architecture** popular in the time of Queen Victoria
 - ✅ **Centre Block**: is destroyed by accidental fire in **1916**, rebuilt in **1922**
@@ -85,10 +97,16 @@ import TabItem from '@theme/TabItem';
 - Young Canadians love hockey: play at schools, road/street hockey, collect hockey cards, etc
 
 ✅ **Stanley Cup**
+
+![Stanley Cup](../assets/symbol-nhl-stanley-cup.jpg)
+
 - Awarded by the **NHL (National Hockey League)**
 - Donated by **Lord Stanley** (the Governor General) in **1892**
 
 ✅ **Clarkson Cup**
+
+![Clarkson Cup](../assets/symbol-nhl-clarkson-cup.jpg)
+
 - Women’s hockey championship
 - Established by **Adrienne Clarkson** (26th Governor General) in **2005**
 
@@ -197,6 +215,8 @@ Vive la Reine!
 
 ## The Order of Canada and Other Honours
 
+![The Order of Canada](../assets/symbol-order-of-canada.png)
+
 ✅ Outstanding citizens are awarded with **honours**, including:
 - Orders
 - Decorations
@@ -207,6 +227,8 @@ Vive la Reine!
 ✅ Canadians may **nominate** others for honours
 
 ## The Victoria Cross 🎖️
+
+![The Victoria Cross](../assets/symbol-victoria-cross.png)
 
 ✅ **Highest military honour** in Canada, awared for exceptional bravery, valour, self-sacrifice, extreme devotion to duty in combat
 

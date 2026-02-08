@@ -41,6 +41,8 @@
 
 ## Parliamentary Democracy
 
+![Canada's Government System](../assets/government-system.png)
+
 ✅ In Canada’s parliamentary democracy, the people elect members to:
 - The **House of Commons** (federal)
 - Provincial and territorial legislatures
@@ -92,9 +94,6 @@
 :::
 
 ## Constitutional Monarchy
-
-✅ CANADA’S SYSTEM OF GOVERNMENT 
-![Canada's Government System](../assets/government-system.png)
 
 ✅ **Canada’s Head of State:**
 - A **hereditary Sovereign** (Queen or King)

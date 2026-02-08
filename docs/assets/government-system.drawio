@@ -1,0 +1,81 @@
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36 Edg/144.0.0.0" version="29.3.8">
+  <diagram name="Page-1" id="JxkmaIBLdx9925kx8WPW">
+    <mxGraphModel dx="988" dy="622" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="3IoSIrABe6ME0oVjDtfL-2" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#bac8d3;fontSize=16;fontStyle=1;strokeColor=none;" value="Parliament" vertex="1">
+          <mxGeometry height="40" width="240" x="560" y="40" as="geometry" />
+        </mxCell>
+        <mxCell id="3IoSIrABe6ME0oVjDtfL-4" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#b1ddf0;fontSize=16;fontStyle=1;strokeColor=none;" value="Sovereign" vertex="1">
+          <mxGeometry height="40" width="240" x="560" y="90" as="geometry" />
+        </mxCell>
+        <mxCell id="3IoSIrABe6ME0oVjDtfL-22" edge="1" parent="1" source="3IoSIrABe6ME0oVjDtfL-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.25;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;strokeWidth=3;endArrow=none;endFill=0;strokeColor=light-dark(#000000,#FF8000);" target="3IoSIrABe6ME0oVjDtfL-21">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="3IoSIrABe6ME0oVjDtfL-5" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=light-dark(#B1DDF0,#2E728F);fontSize=15;fontStyle=0;strokeColor=none;" value="Represent in Canada by the Governor General" vertex="1">
+          <mxGeometry height="50" width="240" x="560" y="130" as="geometry" />
+        </mxCell>
+        <mxCell id="3IoSIrABe6ME0oVjDtfL-6" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#b0e3e6;fontSize=16;fontStyle=1;strokeColor=none;" value="Senate" vertex="1">
+          <mxGeometry height="40" width="240" x="560" y="190" as="geometry" />
+        </mxCell>
+        <mxCell id="3IoSIrABe6ME0oVjDtfL-7" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=light-dark(#B0E3E6,#1B777D);fontSize=15;fontStyle=0;strokeColor=none;" value="Appointed on the Prime Minister&#39;s recommendation" vertex="1">
+          <mxGeometry height="50" width="240" x="560" y="230" as="geometry" />
+        </mxCell>
+        <mxCell id="3IoSIrABe6ME0oVjDtfL-8" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=light-dark(#fad7ac, #628196);fontSize=16;fontStyle=1;strokeColor=none;" value="House of Commons&lt;div&gt;&lt;span style=&quot;font-weight: normal;&quot;&gt;&lt;font style=&quot;font-size: 14px;&quot;&gt;Elected by voters&lt;/font&gt;&lt;/span&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="40" width="240" x="560" y="290" as="geometry" />
+        </mxCell>
+        <mxCell id="3IoSIrABe6ME0oVjDtfL-9" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=light-dark(#FAD7AC, #a3b5c4);fontSize=15;fontStyle=0;strokeColor=none;fontColor=light-dark(#000000,#000000);" value="Government Members" vertex="1">
+          <mxGeometry height="50" width="118" x="560" y="330" as="geometry" />
+        </mxCell>
+        <mxCell id="3IoSIrABe6ME0oVjDtfL-11" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=light-dark(#FAD7AC, #9eb6c2);fontSize=15;fontStyle=0;strokeColor=none;fontColor=light-dark(#000000,#000000);" value="Opposition Members" vertex="1">
+          <mxGeometry height="50" width="118" x="682" y="330" as="geometry" />
+        </mxCell>
+        <mxCell id="3IoSIrABe6ME0oVjDtfL-12" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=light-dark(#fad9d5, #37423a);fontSize=16;fontStyle=1;strokeColor=none;" value="Judiciary" vertex="1">
+          <mxGeometry height="40" width="240" x="560" y="400" as="geometry" />
+        </mxCell>
+        <mxCell id="3IoSIrABe6ME0oVjDtfL-13" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=light-dark(#b0e3e6, #2c5a36);fontSize=16;fontStyle=1;strokeColor=none;" value="Supreme Court of Canada" vertex="1">
+          <mxGeometry height="40" width="240" x="560" y="440" as="geometry" />
+        </mxCell>
+        <mxCell id="3IoSIrABe6ME0oVjDtfL-14" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=light-dark(#B0E3E6, #4f7a58);fontSize=15;fontStyle=0;strokeColor=none;" value="Nine judges appointed by the Governor General" vertex="1">
+          <mxGeometry height="50" width="240" x="560" y="480" as="geometry" />
+        </mxCell>
+        <mxCell id="3IoSIrABe6ME0oVjDtfL-29" edge="1" parent="1" source="3IoSIrABe6ME0oVjDtfL-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.25;entryY=1;entryDx=0;entryDy=0;strokeWidth=3;endArrow=none;endFill=0;strokeColor=light-dark(#000000,#808080);" target="3IoSIrABe6ME0oVjDtfL-14">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="3IoSIrABe6ME0oVjDtfL-15" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=light-dark(#FAD7AC, #83a688);fontSize=15;fontStyle=0;strokeColor=none;fontColor=light-dark(#000000,#000000);" value="Federal Court&lt;div&gt;of Canada&lt;/div&gt;" vertex="1">
+          <mxGeometry height="50" width="118" x="560" y="549" as="geometry" />
+        </mxCell>
+        <mxCell id="3IoSIrABe6ME0oVjDtfL-30" edge="1" parent="1" source="3IoSIrABe6ME0oVjDtfL-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.75;entryY=1;entryDx=0;entryDy=0;strokeWidth=3;endArrow=none;endFill=0;strokeColor=light-dark(#000000,#808080);" target="3IoSIrABe6ME0oVjDtfL-14">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="3IoSIrABe6ME0oVjDtfL-16" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=light-dark(#FAD7AC, #83a688);fontSize=15;fontStyle=0;strokeColor=none;fontColor=light-dark(#000000,#000000);" value="Provincial&lt;div&gt;Courts&lt;/div&gt;" vertex="1">
+          <mxGeometry height="50" width="118" x="682" y="549" as="geometry" />
+        </mxCell>
+        <mxCell id="3IoSIrABe6ME0oVjDtfL-27" edge="1" parent="1" source="3IoSIrABe6ME0oVjDtfL-21" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;strokeWidth=3;endArrow=none;endFill=0;strokeColor=light-dark(#000000,#FF8000);" target="3IoSIrABe6ME0oVjDtfL-26">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="3IoSIrABe6ME0oVjDtfL-21" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;autosize=1;resizable=0;fontColor=light-dark(#000000,#FF8000);fontSize=16;fontStyle=1" value="Executive&lt;div&gt;Branch&lt;/div&gt;" vertex="1">
+          <mxGeometry height="50" width="90" x="430" y="168" as="geometry" />
+        </mxCell>
+        <mxCell id="3IoSIrABe6ME0oVjDtfL-23" edge="1" parent="1" source="3IoSIrABe6ME0oVjDtfL-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.25;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;strokeWidth=3;endArrow=none;endFill=0;strokeColor=light-dark(#000000, #008a60);" target="3IoSIrABe6ME0oVjDtfL-24">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="930" y="30" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="3IoSIrABe6ME0oVjDtfL-25" edge="1" parent="1" source="3IoSIrABe6ME0oVjDtfL-24" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=1;entryY=0.75;entryDx=0;entryDy=0;strokeWidth=3;endArrow=none;endFill=0;strokeColor=light-dark(#000000,#008A60);" target="3IoSIrABe6ME0oVjDtfL-8">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="3IoSIrABe6ME0oVjDtfL-24" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;autosize=1;resizable=0;fontColor=light-dark(#000000,#008A60);fontSize=16;fontStyle=1" value="Legislative&lt;div&gt;Branch&lt;/div&gt;" vertex="1">
+          <mxGeometry height="50" width="100" x="825" y="162" as="geometry" />
+        </mxCell>
+        <mxCell id="3IoSIrABe6ME0oVjDtfL-28" edge="1" parent="1" source="3IoSIrABe6ME0oVjDtfL-26" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;strokeWidth=3;endArrow=none;endFill=0;strokeColor=light-dark(#000000,#FF8000);" target="3IoSIrABe6ME0oVjDtfL-9">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="3IoSIrABe6ME0oVjDtfL-26" parent="1" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=none;fillColor=light-dark(#000000,#FF8000);fontSize=16;fontStyle=1" value="Prime Minister and Cabinet" vertex="1">
+          <mxGeometry height="60" width="120" x="415" y="242" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
