@@ -1,4 +1,4 @@
-#### Rights of Citizenship
+<h4>Rights of Citizenship</h4>
 
 - Canadian citizens enjoy rights that are secured by Canadian law and reflect shared traditions and values.
 - The Canadian Constitution includes the Canadian Charter of Rights and Freedoms, which was entrenched in 1982.
@@ -10,7 +10,7 @@
 - Official Language Rights: French and English have equal status in Parliament and government.
 - Multiculturalism is a fundamental characteristic of Canadian heritage and identity.
 
-#### Responsibilities of Citizenship
+<h4>Responsibilities of Citizenship</h4>
 - Canadian rights come with responsibilities such as obeying the law, a founding principle of Canada.
 - Citizens must take responsibility for themselves and their families, contributing to Canada's prosperity.
 - Serving on a jury is a legal requirement and ensures the justice system works.
@@ -21,6 +21,6 @@
 - Citizens can also serve in emergency services like police, fire departments, or the Coast Guard to protect their communities.
 - Young people can gain skills, discipline, and experience by joining cadets, the reserves, or community services.
 
-#### Equality of Women and Men
+<h4>Equality of Women and Men</h4>
 - In Canada, men and women are equal under the law.
 - Barbaric cultural practices like spousal abuse, “honour killings,” and female genital mutilation are illegal and severely punished under Canadian law.

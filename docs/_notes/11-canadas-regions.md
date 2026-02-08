@@ -1,20 +1,20 @@
-#### Intro
+<h4>Intro</h4>
 
 - Canada is the second-largest country on Earth with 10 million square kilometres.
 - Canada is bordered by three oceans: the Pacific (west), Atlantic (east), and Arctic (north).
 - The Canada-U.S. border is the world's longest undefended border.
 
-#### Regions of Canada
+<h4>Regions of Canada</h4>
 
 - Canada has five distinct regions: Atlantic Provinces, Central Canada, Prairie Provinces, West Coast, and Northern Territories.
 - Each region has its own geography, economy, and culture.
 
-#### Provinces and Territories
+<h4>Provinces and Territories</h4>
 
 - Canada consists of 10 provinces and 3 territories, each with its own capital city.
 - You should know the capital city of your province/territory and Canada's capital, Ottawa.
 
-#### Atlantic Provinces
+<h4>Atlantic Provinces</h4>
 
 - The Atlantic Provinces include Newfoundland and Labrador, Prince Edward Island, Nova Scotia, and New Brunswick.
 - Key industries include fishing, farming, forestry, and mining.
@@ -23,13 +23,13 @@
 - Nova Scotia: Known for shipbuilding and the highest tides in the Bay of Fundy.
 - New Brunswick: Canada's only officially bilingual province, with forestry and agriculture as key industries.
 
-#### Central Canada
+<h4>Central Canada</h4>
 
 - Central Canada includes Quebec and Ontario, where half the population lives.
 - Quebec: Canada's main producer of pulp and paper and largest producer of hydro-electricity.
 - Ontario: Canada's most populous province and economic hub, home to the Great Lakes.
 
-#### Prairie Provinces
+<h4>Prairie Provinces</h4>
 
 - The Prairie Provinces include Manitoba, Saskatchewan, and Alberta.
 - Known for energy resources and fertile farmland.
@@ -37,13 +37,13 @@
 - Saskatchewan: Produces grains, oilseeds, potash, and oil and gas.
 - Alberta: Largest producer of oil and gas, home to Banff National Park.
 
-#### West Coast
+<h4>West Coast</h4>
 
 - British Columbia: Canada's Pacific gateway, with forestry as its largest industry.
 - The Port of Vancouver is Canada's largest and busiest port.
 - Victoria, the capital of B.C., is known for tourism.
 
-#### Northern Territories
+<h4>Northern Territories</h4>
 
 - The Northern Territories include Yukon, Northwest Territories, and Nunavut.
 - Together, they make up one-third of Canada's land but have only 100,000 residents.
