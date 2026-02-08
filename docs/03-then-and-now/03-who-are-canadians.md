@@ -15,7 +15,7 @@ import Book from '../_books/03-who-are-canadians.md';
   <TabItem value="note" label="Key Notes" default>
     <Note />
   </TabItem>
-  <TabItem value="guide" label="AI Summary">
+  <TabItem value="guide" label="Summary">
     <Guide />
   </TabItem>
   <TabItem value="book" label="Book">
