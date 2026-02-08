@@ -141,8 +141,9 @@ import NorthernMap from '../assets/region-northern.jpg';
 
 ### Newfoundland and Labrador (N.L)
 
+- Capital: **St. John’s**
 - Natural beauty, unique heritage linked to the sea
-- **Most easterly point in North America**, has its **own time zone**
+- **Most easterly point in North America**, has its **own unique time zone**
 - **Oldest colony of the British Empire** and a strategic prize in Canada’s early history
 - Known for its **fisheries, coastal fishing villages** and distinct culture
 - Modern economy includes:
@@ -151,6 +152,7 @@ import NorthernMap from '../assets/region-northern.jpg';
 
 ### Prince Edward Island (P.E.I)
 
+- Capital: **Charlottetown**
 - **Smallest province** in Canada
 - Known for: beaches, red soil and especially **potatoes**
 - Birthplace of **Confederation**
@@ -163,7 +165,7 @@ import NorthernMap from '../assets/region-northern.jpg';
 - Gateway to Canada
 - Known for the **world’s highest tides in the Bay of Fundy**
 - Main industries: shipbuilding, fisheries, shipping
-- **Halifax**
+- Capital: **Halifax**
   - Canada’s **largest east coast port**, deep-water and ice-free
   - **Largest naval base**
 - Long history of coal mining, forestry and agriculture
@@ -180,7 +182,7 @@ import NorthernMap from '../assets/region-northern.jpg';
 - Cities:
   - Saint John: largest city, port and manufacturing centre
   - Moncton: Francophone Acadian centre
-  - Fredericton: capital
+  - **Fredericton**: capital
 - Only **officially bilingual province**
 - About **one-third** of population is **French-speaking**
 - Loyalist and French cultural heritage and history
@@ -198,6 +200,7 @@ import NorthernMap from '../assets/region-northern.jpg';
 
 - Population: nearly **8 million**
 - Majority live near **St. Lawrence River**
+- Capital: **Québec City**
 - Over **three-quarters** speak French as first language
 - Main industries: forestry, energy and mining
 - Canada’s **main producer of pulp and paper**
@@ -212,7 +215,7 @@ import NorthernMap from '../assets/region-northern.jpg';
 
 - Population: over **12 million**, more than **one-third** of all Canadians
 - Strategic location, rich in natural resources, diverse cultures
-- **Toronto**
+- Capital: **Toronto**
   - **Canada's largest city**
   - **Financial centre**
 - Strong manufacturing and service economy
@@ -238,8 +241,8 @@ import NorthernMap from '../assets/region-northern.jpg';
 ### Manitoba (M.B)
 
 - Economy: Agriculture, mining and **hydro-electric power**
-- **Winnipeg**:
-  - Most populous city
+- Capital: **Winnipeg**
+  - Most populous city of the province
   - Exchange District includes the **most famous street intersection in Canada, Portage and Main**
   - **St. Boniface**: Winnipeg's French Quarter, **largest Western Canada Francophone community** at 45,000
 - Important centre of Ukrainian culture (14% Ukrainian origins)
@@ -260,6 +263,7 @@ import NorthernMap from '../assets/region-northern.jpg';
 ### Alberta (A.B)
 
 - Most populous Prairie province
+- Capital: **Edmonton**
 - Named after **Princess Louise Caroline Alberta**, 4th daughter of Queen Victoria
   - **Lake Louise** famous lake in the Rocky Mountains
 - Five national parks:
@@ -313,6 +317,7 @@ import NorthernMap from '../assets/region-northern.jpg';
 
 ### Yukon (Y.T)
 
+- Capital: **Whitehorse**
 - Economy: mostly mining
   - Attracts miners during Gold Rush of the **1890s**
 - White Pass and Yukon Railway opened in **1900**
