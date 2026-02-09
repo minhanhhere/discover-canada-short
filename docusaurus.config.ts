@@ -5,7 +5,7 @@ import type * as Preset from "@docusaurus/preset-classic";
 // This runs in Node.js - Don't use client-side code here (browser APIs, JSX...)
 
 const config: Config = {
-  title: "Discover Canada | Simple",
+  title: "The Next Canadian",
   tagline:
     "A simple, easy-to-read guide to Discover Canada—key facts, history, government, rights, and responsibilities to help you study for the Canadian citizenship test.",
   favicon: "img/favicon.ico",
@@ -112,6 +112,10 @@ const config: Config = {
           label: "Download",
           position: "right",
           items: [
+            {
+              label: "Discover Canada Summary (PDF)",
+              href: "data/DiscoverCanadaSummary.pdf",
+            },
             {
               label: "Discover Canada (PDF)",
               href: "https://www.canada.ca/content/dam/ircc/migration/ircc/english/pdf/pub/discover.pdf",
