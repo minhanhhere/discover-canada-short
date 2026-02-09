@@ -1,4 +1,4 @@
-## Summary
+## Intro
 Canadians are proud of a **unique national identity**
 
 - ✅ Canada is the **only constitutional monarchy in North America**, has the **oldest continuous constitutional tradition** in the world
