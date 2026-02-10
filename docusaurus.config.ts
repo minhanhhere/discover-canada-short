@@ -83,7 +83,7 @@ const config: Config = {
       respectPrefersColorScheme: true,
     },
     navbar: {
-      title: "Discover Canada Simple",
+      title: "The Next Canadian",
       logo: {
         alt: "Site Logo",
         src: "img/logo.svg",
@@ -171,7 +171,7 @@ const config: Config = {
     footer: {
       style: "dark",
       links: [],
-      copyright: `Copyright © ${new Date().getFullYear()} Discover Canada Simple. Built with Docusaurus.`,
+      copyright: `Copyright © ${new Date().getFullYear()} The Next Canadian. Built with Docusaurus.`,
     },
     prism: {
       theme: prismThemes.github,
