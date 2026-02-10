@@ -150,8 +150,7 @@
 
 ✅ **Key inventors and inventions**
 - **Alexander Graham Bell** — telephone
-- **Sir Frederick Banting** of Toronto and **Charles Best** - discovered insulin, a hormone to treat diabetes that has saved
-16 million lives worldwide
+- **Sir Frederick Banting** of Toronto and **Charles Best** — insulin to treat diabetes, saved 16 million lives worldwide
 - **Joseph‑Armand Bombardier** — snowmobile
 - **Sir Sandford Fleming** — standard time zones
 - **Mathew Evans & Henry Woodward** — electric light bulb
