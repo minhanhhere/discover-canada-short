@@ -33,7 +33,7 @@
 
 ✅ Canada is a member of the **United Nations (UN)**
 
-✅ Canada defended South Korean in the **Korean War (1950–1953)**
+✅ Canada defended South Korea in the **Korean War (1950–1953)**
 - Casualties: 500 dead and 1,000 wounded
 
 ✅ **UN Peacekeeping missions in Egypt, Cyprus and Haiti**
@@ -156,7 +156,7 @@
 - **Mathew Evans & Henry Woodward** — electric light bulb
 - **Reginald Fessenden** — wireless voice radio
 - **Dr. Wilder Penfield** — pioneering brain surgeon
-- **Dr. John A. Hopps** — cardiac pacemaker, save patient with heart disorder
+- **Dr. John A. Hopps** — cardiac pacemaker, saving patients with heart disorders
 - **SPAR Aerospace / NRC** — Canadarm, outer space robotic arm
 - **Mike Lazaridis & Jim Balsillie (RIM)** — BlackBerry
 

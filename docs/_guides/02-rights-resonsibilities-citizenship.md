@@ -62,7 +62,7 @@
 - Provincial or territorial
 - Local elections
 
-✅ **Helping others in the community** through volunteering, example:
+✅ **Helping others in the community** through volunteering, examples:
 - Schools
 - Food banks
 - Charities

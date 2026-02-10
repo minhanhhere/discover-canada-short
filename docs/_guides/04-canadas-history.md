@@ -72,7 +72,7 @@
   - To better govern the French Roman Catholic majority
   - Provided religious freedom for Catholics
   - Allowed Catholics to hold public office (not allowed in Britain)
-  - Restored **French civil law** while Kept **British criminal law**
+  - Restored **French civil law** while kept **British criminal law**
   - 👍 Major constitutional foundation of Canada
 
 ## United Empire Loyalists
@@ -91,10 +91,10 @@
 - **Count Frontenac** refused to surrender Quebec to the English in 1690, saying: "My only reply will be from the mouths of my cannons!"
 - **Pierre Le Moyne, Sieur d’Iberville**
   - A great hero of New France
-  - Winned many victories over the English, from James Bay in the north to Nevis in the Caribbean, in the late 17th and early 18th centuries.
+  - Won many victories over the English, from James Bay in the north to Nevis in the Caribbean, in the late 17th and early 18th centuries.
 - **Sir Guy Carleton (Lord Dorchester)**, as Governor of Quebec
   - Defended Canadiens’ rights
-  - Defeated an US invasion of Quebec (1775)
+  - Defeated a US invasion of Quebec (1775)
   - Supervised the Loyalist migration to Nova Scotia and Quebec in 1782-83.
 
 :::
@@ -151,7 +151,7 @@
 
 ✅ **1813**: **Americans burned** Government House and the Parliament Buildings in **York** (now Toronto)
 
-✅ **1814**: **British revenged** by burning **the White House** and other buildings in **Washington, D.C.**
+✅ **1814**: **British retaliated** by burning **the White House** and other buildings in **Washington, D.C.**
 - 👍 By Major-General Robert Ross and expedition from Nova Scotia
 - 👍 Ross died in battle soon afterwards and was buried in Halifax
 
@@ -164,20 +164,20 @@
 - Some believed Canada should adopt American republican values
 - Some wanted to join the US
 
-✅ **Armed rebellions** occured in **1837-38**
-- In Area outside Montreal and in Toronto
+✅ **Armed rebellions** occurred in **1837-38**
+- In areas outside Montreal and in Toronto
 - **Failed due to lack of public support**
 - Defeated by British troops and Canadian volunteers
 - Some were hanged or exiled; some exiles later returned to Canada
 
 ✅ **Lord Durham:**
 - An English reformer sent to report on the rebellions
-- Recommended merge of Upper and Lower Canada, and 
+- Recommended a merge of Upper and Lower Canada, and
 - Introduced **responsible government**
   - The ministers of the Crown must have majority support of the elected representatives
 - Controversially proposed Canadiens (French Canadians) to assimilate into English-speaking Protestant culture
 
-✅ Some reformers was later became **Fathers of Confederation**
+✅ Some reformers later became **Fathers of Confederation**
 
 :::info[✅ Fathers of Confederation]
 
@@ -215,7 +215,7 @@
   - New Brunswick
  
 ✅ **1st July, 1867**: Dominion of Canada was born
-  - Called as "**Dominion Day**" until 1982
+  - Known as "**Dominion Day**" until 1982
   - Now called 🇨🇦 **Canada Day**
 
 ✅ **1867**: British Parliament passed the British North America Act
@@ -259,8 +259,8 @@
 ✅ **1873**: Prime Minister Macdonald formed the North West Mounted Police (**NWMP**)
 - To pacify the West and negotiate with the Indians
 - Founded Fort Calgary, Fort MacLeod and other centers (today's towns and cities)
-- **Headquarter in Regina**
-- Today called **RCMP** or "The Mounties" (one of Canada's best-known symbols of National Police force)
+- **Headquarters in Regina**
+- Today called **RCMP** or "The Mounties" (one of Canada's best-known symbols of the national police force)
 
 ## A Railway from Sea to Sea
 ✅ **1871**: **British Columbia joined Canada** (after Ottawa's railway promise)
@@ -288,7 +288,7 @@
 ✅ **Large Eastern European settlement** before 1914 thanks to the railway
 - 170,000 Ukrainians
 - 115,000 Poles
-- Tens of thousand (20,000 - 90,000+) Germans, French, Norwegians, Swedes
+- Tens of thousands (20,000 - 90,000+) Germans, French, Norwegians, Swedes
 
 ## The First World War
 ✅ **1914-1918**
@@ -302,16 +302,16 @@
 ✅ In 1918, under General Sir Arthur Currie, the Canadian Corps advanced in the last hundred days, winning key battles like Amiens, Arras, Canal du Nord, Cambrai, and Mons.
 - Aug 08, 1918 - black day of German Army
 
-✅ **Nov 11, 1918**: war ended in **Armistice**
+✅ **Nov 11, 1918**: the war ended with the **Armistice**
 - ✅ **60,000 Canadian dead** and **170,000 wounded**
-- ✅ Became **Remembrance day** later
-- ✅ Canadians **wear red poppy** and **observe a moment of silence** at 11am to honour the sacrifices
+- ✅ Became **Remembrance Day** later
+- ✅ Canadians **wear a red poppy** and **observe a moment of silence** at 11am to honour the sacrifices
 
 ## Women Get the Vote
 👍 At time of Confederation, only adult white males could vote, as was typical then.
 
 ✅ **Women’s suffrage movement**: women achieved rights to vote
-- ✅ Founder: **Dr. Emily Stowe**, first Canadian female medical pratitioner
+- ✅ Founder: **Dr. Emily Stowe**, first Canadian female medical practitioner
 
 ✅ **1916**: **Manitoba, first province** granted women's right to vote
 
@@ -338,7 +338,7 @@
 ✅ **1934**: **Bank of Canada** created
 -  Manage the money supply and bring stability to the financial system
 
-✅ Immigration declined and many refugess were turned away
+✅ Immigration declined and many refugees were turned away
 
 ## The Second World War
 ✅ **1939-1945**

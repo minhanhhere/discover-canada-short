@@ -15,7 +15,7 @@ Canadians are proud of a **unique national identity**
 
 ## Aboriginal Peoples
 
-✅ Ancestors of Aboriginal peoples migrated **from Asia many thousands of years ago
+✅ Ancestors of Aboriginal peoples migrated **from Asia many thousands of years ago**
 - First Nations cultures were based on religious beliefs about their relationship to the Creator, the natural environment and each other
 
 ✅ **Aboriginal and treaty rights** are in the **Canadian Constitution**
@@ -36,7 +36,7 @@ Canadians are proud of a **unique national identity**
 👍 **Aboriginal peoples**: 65% First Nation, 30% Métis, 4% Inuit
 - ✅ **First Nations**
   - Formerly called Indian
-  - Term **First Nation** is introduced in 1970s
+  - Term **First Nation** was introduced in the 1970s
   - About half live on reserve land in **600 communities**
   - Other half live off-reserve (mainly in cities)
 - ✅ **Inuit**
@@ -69,7 +69,7 @@ Canadians are proud of a **unique national identity**
 ✅ **Acadians**:
 - Descendants of French settlers (from **1604**)
 - Lived in the **Maritime provinces**
-- ✅ **“Great Upheaval”** event: two-thrids Acadians were **deported between 1755–1763**, during war between Britain and France
+- ✅ **“Great Upheaval”** event: two-thirds of Acadians were **deported between 1755–1763**, during war between Britain and France
 - Acadian culture survives and thrives today
 
 ✅ **Quebecers**:
@@ -83,13 +83,13 @@ Canadians are proud of a **unique national identity**
 ✅ **Anglophones**:
 - Descendants of **English, Welsh, Scottish, and Irish** settlers
 - Arrived from the **1600s to the 20th century**
-- Generally refered to as English Canadians
+- Generally referred to as English Canadians
 
 ## Diversity in Canada
 
 👍 Most Canadians have been **born in Canada** since 1800s
 
-✅ Though, Canada is often called a **land of immigrants**, who have helped built Canada for **over 200 years**
+✅ Though, Canada is often called a **land of immigrants**, who have helped build Canada for **over 200 years**
 
 ✅ Major ethnic groups include:
 - English
@@ -105,10 +105,10 @@ Canadians are proud of a **unique national identity**
 - South Asian
 - Scandinavian
 
-✅ Since the **1970s**, most immigrants come from **Asia**
+✅ Since the **1970s**, most immigrants have come from **Asia**
 
 ✅ Many **non-official languages**
-- ✅ Chinese is 2nd most-spoken languages at home: 13% Vancouver & 7% Toronto residents
+- ✅ Chinese is 2nd most-spoken language at home: 13% Vancouver & 7% Toronto residents
 
 ✅ Religion in Canada:
 - Majority identify as **Christian**
