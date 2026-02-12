@@ -184,19 +184,28 @@ export default function Quiz() {
         <div className="col col--auto text--center">
           Practice Quiz {quizSetIndex + 1}
         </div>
-        <div className="col col--auto">
-          <span className="badge badge--info margin-right--sm">
-            Question {questionIndex + 1}/{questions.length}
-          </span>
-          {reveal && (
-            <>
-              {currentQuestion.answer[selectedAnswerIndex!]?.isCorrect ? (
-                <span className="badge badge--success">Correct</span>
-              ) : (
-                <span className="badge badge--danger">Incorrect</span>
-              )}
-            </>
-          )}
+        <div className={`col col--auto margin-bottom--sm ${styles.questionStat}`}>
+          <div>
+            <span className="badge badge--info margin-right--sm">
+              Question {questionIndex + 1}/{questions.length}
+            </span>
+            {reveal && (
+              <>
+                {currentQuestion.answer[selectedAnswerIndex!]?.isCorrect ? (
+                  <span className="badge badge--success">Correct</span>
+                ) : (
+                  <span className="badge badge--danger">Incorrect</span>
+                )}
+              </>
+            )}
+          </div>
+          <button
+            type="button"
+            className={`button button--sm button--primary margin-right--sm ${isBookmarked() ? "" : "button--outline"}`}
+            onClick={toggleBookmark}
+          >
+            {isBookmarked() ? "Saved" : "Save"}
+          </button>
         </div>
         <div className="col">
           <h2 className="margin-bottom--sm">{currentQuestion.question}</h2>
@@ -255,13 +264,7 @@ export default function Quiz() {
               />
               {" "}Auto-next on correct answer
             </label>
-            <button
-              type="button"
-              className={`button button--primary ${isBookmarked() ? "" : "button--outline"}`}
-              onClick={toggleBookmark}
-            >
-              {isBookmarked() ? "Saved" : "Save"}
-            </button>
+            
           </div>
 
           {/* Back, CorrectCount , Next */}
