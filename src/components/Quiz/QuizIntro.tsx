@@ -13,6 +13,11 @@ export default function QuizIntro({
 }: QuizIntroProps) {
   const quizProgress = useQuizProgressStore((s) => s.quizProgress);
 
+  function isPassed(score: string) {
+    const [correct, total] = score.split("/").map(Number);
+    return (correct / total) * 100 >= 75;
+  }
+
   return (
     <div>
       <p className="margin-bottom--md">
@@ -43,11 +48,12 @@ export default function QuizIntro({
           {Array.from({ length: dataSetLength }, (_, i) => {
             const isStarted = quizProgress[i]?.started ?? false;
             const score = quizProgress[i]?.score;
+            const buttonColor = (score && !isPassed(score)) ? "button--secondary" : "button--danger";
             return (
               <button
                 key={i}
                 type="button"
-                className={`button button--lg button--block button--secondary padding-horiz--none ${isStarted ? "" : "button--outline"}`}
+                className={`button button--lg button--block ${buttonColor} padding-horiz--none ${isStarted ? "" : "button--outline"}`}
                 onClick={() => onStart(i)}
               >
                 Quiz {i + 1}
