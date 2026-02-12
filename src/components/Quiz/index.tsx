@@ -7,6 +7,7 @@ import QuizIntro from "./QuizIntro";
 import QuizError from "./QuizError";
 import QuizMap from "./QuizMap";
 import { useQuizProgressStore } from "./state/quizProgressStore";
+import { useQuizReviewStore } from "./state/quizReviewStore";
 import { normalizeQuizSet, pickRandomArrayIndex } from "./quizUtils";
 
 export default function Quiz() {
@@ -14,6 +15,11 @@ export default function Quiz() {
   const markQuizStarted = useQuizProgressStore((s) => s.startQuiz);
   const completeQuiz = useQuizProgressStore((s) => s.completeQuiz);
   const resetQuiz = useQuizProgressStore((s) => s.resetQuiz);
+
+  const bookmarkedQuestions = useQuizReviewStore((s) => s.quizReview.bookmarkedQuestions);
+  const addBookmarkedQuestion = useQuizReviewStore((s) => s.addBookmarkedQuestion);
+  const removeBookmarkedQuestion = useQuizReviewStore((s) => s.removeBookmarkedQuestion);
+  const addMissedQuestion = useQuizReviewStore((s) => s.addMissedQuestion);
 
   const {
     data: quizData,
@@ -120,6 +126,32 @@ export default function Quiz() {
     setQuizSetIndex(null);
   }
 
+  function findOriginalQuestionIdx() {
+    if (!quizData || quizSetIndex === null || !currentQuestion) return -1;
+    return quizData[quizSetIndex].findIndex(
+      (q) => q.question === currentQuestion.question
+    );
+  }
+
+  function isBookmarked() {
+    if (quizSetIndex === null) return false;
+    const questionId = findOriginalQuestionIdx();
+    return bookmarkedQuestions.some(
+      (q) => q.quizIdx === quizSetIndex && q.questionIdx === questionId
+    );
+  }
+
+  function toggleBookmark() {
+    if (quizSetIndex === null) return;
+    
+    const questionId = findOriginalQuestionIdx();
+    if (isBookmarked()) {
+      removeBookmarkedQuestion(quizSetIndex, questionId);
+    } else {
+      addBookmarkedQuestion(quizSetIndex, questionId);
+    }
+  }
+
   // Effect: complete quiz when all questions have been answered
   useEffect(() => {
     if (Object.keys(answerHistory).length === questions.length) {
@@ -192,6 +224,9 @@ export default function Quiz() {
               disabled={reveal}
               onClick={() => {
                 setSelectedAnswerIndex(idx);
+                if (!ans.isCorrect) {
+                  addMissedQuestion(quizSetIndex, findOriginalQuestionIdx());
+                }
                 setAnswerHistory((prev) => ({ ...prev, [questionIndex]: idx }));
                 if (autoNextOnCorrect && ans.isCorrect) {
                   setTimeout(() => {
@@ -220,6 +255,13 @@ export default function Quiz() {
               />
               {" "}Auto-next on correct answer
             </label>
+            <button
+              type="button"
+              className={`button button--primary ${isBookmarked() ? "" : "button--outline"}`}
+              onClick={toggleBookmark}
+            >
+              {isBookmarked() ? "Saved" : "Save"}
+            </button>
           </div>
 
           {/* Back, CorrectCount , Next */}

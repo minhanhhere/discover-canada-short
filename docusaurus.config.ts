@@ -100,6 +100,11 @@ const config: Config = {
           to: "/quiz",
           position: "left",
         },
+        {
+          label: "Review",
+          to: "/review",
+          position: "left",
+        },
         // External link example
         // {
         //   href: "https://github.com/minhanhhere/discover-canada-short",
