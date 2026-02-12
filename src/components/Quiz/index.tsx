@@ -146,11 +146,11 @@ export default function Quiz() {
   }
 
   return (
-    <div>
+    <div className={styles.nonHover}>
       {/* Question and Metadata */}
       <div className={`row row--no-gutters margin-bottom--sm ${styles.quizHeader}`}>
         <div className="col col--auto text--center">
-          Quiz {quizSetIndex + 1}
+          Practice Quiz {quizSetIndex + 1}
         </div>
         <div className="col col--auto">
           <span className="badge badge--info margin-right--sm">
@@ -186,7 +186,7 @@ export default function Quiz() {
 
           return (
             <button
-              key={idx}
+              key={`answer-${quizSetIndex}-${questionIndex}-${idx}`}
               type="button"
               className={className}
               disabled={reveal}
@@ -196,7 +196,7 @@ export default function Quiz() {
                 if (autoNextOnCorrect && ans.isCorrect) {
                   setTimeout(() => {
                     nextQuestion();
-                  }, 500);
+                  }, 700);
                 }
               }}
             >

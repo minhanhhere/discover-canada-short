@@ -66,6 +66,13 @@
   }
 }
 
+@media (hover: none) {
+  .nonHover :global(.button--outline.button--primary):hover {
+    background-color: transparent!important;
+    color: var(--ifm-color-primary)!important;
+  }
+}
+
 .quizIntroGridPrimary {
   grid-column: 1 / -1;
 }
