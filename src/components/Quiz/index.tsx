@@ -201,7 +201,7 @@ export default function Quiz() {
           </div>
           <button
             type="button"
-            className={`button button--sm button--primary margin-right--sm ${isBookmarked() ? "" : "button--outline"}`}
+            className={`button button--sm button--primary ${isBookmarked() ? "" : "button--outline"}`}
             onClick={toggleBookmark}
           >
             {isBookmarked() ? "Saved" : "Save"}
