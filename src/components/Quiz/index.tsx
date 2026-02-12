@@ -23,6 +23,7 @@ export default function Quiz() {
     refetch,
   } = useFetchPracticeQuizData();
 
+  const [autoNextOnCorrect, setAutoNextOnCorrect] = useState(true);
   const [quizSetIndex, setQuizSetIndex] = useState<number | null>(null);
   const [questionIndex, setQuestionIndex] = useState<number>(0);
   const [selectedAnswerIndex, setSelectedAnswerIndex] = useState<number | null>(null);
@@ -114,6 +115,7 @@ export default function Quiz() {
   }
 
   function resetQuizProgress() {
+    if (quizSetIndex === null) return;
     resetQuiz(quizSetIndex);
     setQuizSetIndex(null);
   }
@@ -191,6 +193,11 @@ export default function Quiz() {
               onClick={() => {
                 setSelectedAnswerIndex(idx);
                 setAnswerHistory((prev) => ({ ...prev, [questionIndex]: idx }));
+                if (autoNextOnCorrect && ans.isCorrect) {
+                  setTimeout(() => {
+                    nextQuestion();
+                  }, 500);
+                }
               }}
             >
               {ans.text}
@@ -202,6 +209,18 @@ export default function Quiz() {
       {/* Navigation and Controls */}
       <div className="margin-top--lg">
         <div>
+
+          {/* Checkbox Auto Next on Correct Answer */}
+          <div className="margin-bottom--md">
+            <label className="margin-right--md">
+              <input
+                type="checkbox"
+                checked={autoNextOnCorrect}
+                onChange={(e) => setAutoNextOnCorrect(e.target.checked)}
+              />
+              {" "}Auto-next on correct answer
+            </label>
+          </div>
 
           {/* Back, CorrectCount , Next */}
           <div className={`row padding-horiz--md margin-bottom--lg ${styles.spaceBetween}`}>
