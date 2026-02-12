@@ -48,7 +48,7 @@ export default function QuizIntro({
           {Array.from({ length: dataSetLength }, (_, i) => {
             const isStarted = quizProgress[i]?.started ?? false;
             const score = quizProgress[i]?.score;
-            const buttonColor = (score && !isPassed(score)) ? "button--secondary" : "button--danger";
+            const buttonColor = (score && !isPassed(score)) ? "button--danger" : "button--secondary";
             return (
               <button
                 key={i}
