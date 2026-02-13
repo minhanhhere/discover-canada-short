@@ -182,7 +182,7 @@ export default function Quiz() {
       {/* Question and Metadata */}
       <div className={`row row--no-gutters margin-bottom--sm ${styles.quizHeader}`}>
         <div className="col col--auto text--center">
-          Practice Quiz {quizSetIndex + 1}
+          Practice Quiz {quizSetIndex - 9} {/* Offset by 9 because quiz 0-9 are hidden for now */}
         </div>
         <div className={`col col--auto margin-bottom--sm ${styles.questionStat}`}>
           <div>
