@@ -36,6 +36,8 @@ export default function Review() {
 
     stats.forEach((stat) => {
       if (stat.quizIdx >= 0 && stat.quizIdx < quizData.length) {
+        // skip quiz 0 - 9 since they are hidden for now
+        if (stat.quizIdx < 10) return;
         const quizSet = quizData[stat.quizIdx];
         if (stat.questionIdx >= 0 && stat.questionIdx < quizSet.length) {
           const question = quizSet[stat.questionIdx];
@@ -80,7 +82,7 @@ export default function Review() {
             className={`tabs__item ${activeTab === "bookmarked" ? "tabs__item--active" : ""}`}
             onClick={() => setActiveTab("bookmarked")}
           >
-            Bookmarked ({bookmarkedQuestions.length})
+            Bookmarked ({bookmarkedQuestions.filter((q) => q.quizIdx >= 10).length}) {/* Offset by 9 because quiz 0-9 are hidden for now */}
           </div>
           <div
             role="tab"
@@ -89,7 +91,7 @@ export default function Review() {
             className={`tabs__item ${activeTab === "missed" ? "tabs__item--active" : ""}`}
             onClick={() => setActiveTab("missed")}
           >
-            Missed ({missedQuestions.length})
+            Missed ({missedQuestions.filter((q) => q.quizIdx >= 10).length}) {/* Offset by 9 because quiz 0-9 are hidden for now */}
           </div>
         </div>
       </div>
@@ -110,7 +112,7 @@ export default function Review() {
               <div className={`${styles.questionReviewHeader} margin-bottom--md`}>
                 <div>
                   <span className="badge badge--info margin-right--sm">
-                    Quiz {question.quizIdx + 1}
+                    Quiz {question.quizIdx - 9} {/* Offset by 9 because quiz 0-9 are hidden for now */}
                   </span>
                   <span className="badge badge--primary margin-right--sm">
                     Q{displayIdx + 1}
@@ -156,13 +158,6 @@ export default function Review() {
           ))}
         </div>
       )}
-
-      {/* Back Button */}
-      {/* <div className="margin-top--lg">
-        <a href="/docs/quiz" className="button button--primary button--block">
-          Back to Quiz
-        </a>
-      </div> */}
     </div>
   );
 }

@@ -37,6 +37,11 @@ export default function QuizIntro({
 
       <div className="margin-top--lg text--center">
         <div className={`margin-top--md ${styles.quizIntroGrid}`}>
+          <Link
+            className={`button button--info button--lg button--block padding-horiz--none ${styles.quizIntroGridPrimary}`}
+            to="/review">
+            Review Missed/Saved Questions
+          </Link>
           <button
             type="button"
             className={`button button--lg button--block button--primary padding-horiz--none ${styles.quizIntroGridPrimary}`}
@@ -46,6 +51,7 @@ export default function QuizIntro({
           </button>
 
           {Array.from({ length: dataSetLength }, (_, i) => {
+            if (i < 10) return null; // Hide quizzes 1-10 for now
             const isStarted = quizProgress[i]?.started ?? false;
             const score = quizProgress[i]?.score;
             const buttonColor = (score && !isPassed(score)) ? "button--danger" : "button--secondary";
@@ -56,7 +62,7 @@ export default function QuizIntro({
                 className={`button button--lg button--block ${buttonColor} padding-horiz--none ${isStarted ? "" : "button--outline"}`}
                 onClick={() => onStart(i)}
               >
-                Quiz {i + 1}
+                Quiz {i - 9}
                 {score ? ` ✅${score}` : ""}
               </button>
             );
