@@ -82,3 +82,15 @@
   align-items: center;
   justify-content: space-between;
 }
+
+.questionReviewContainer {
+  padding: 16px;
+  border-radius: 8px;
+  border: 1px solid var(--ifm-color-secondary)!important;
+}
+
+.questionReviewHeader {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}

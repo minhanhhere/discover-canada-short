@@ -3,7 +3,6 @@ import { useFetchPracticeQuizData, type QuizQuestion } from "./state/useFetchPra
 import { useQuizReviewStore } from "./state/quizReviewStore";
 import styles from "./styles.module.css";
 import QuizError from "./QuizError";
-import type { QuizQuestionStat } from "./QuizReview";
 
 type TabType = "bookmarked" | "missed";
 
@@ -105,22 +104,27 @@ export default function Review() {
           {reviewQuestions.map((question, displayIdx) => (
             <div
               key={`${question.quizIdx}-${question.questionIdx}`}
-              className="margin-bottom--xl"
+              className={`margin-bottom--md shadow--lw ${styles.questionReviewContainer}`}
             >
               {/* Question Header */}
-              <div className={`${styles.quizHeader} margin-bottom--md`}>
-                <div className="col col--auto">
-                  <span className="badge badge--secondary margin-right--sm">
-                    Q{displayIdx + 1}
-                  </span>
+              <div className={`${styles.questionReviewHeader} margin-bottom--md`}>
+                <div>
                   <span className="badge badge--info margin-right--sm">
                     Quiz {question.quizIdx + 1}
+                  </span>
+                  <span className="badge badge--primary margin-right--sm">
+                    Q{displayIdx + 1}
                   </span>
                   {activeTab === "missed" && question.missedTimes && question.missedTimes > 0 && (
                     <span className="badge badge--danger">
                       Missed {question.missedTimes}x
                     </span>
                   )}
+                </div>
+                <div>
+                  <button className="button button--sm button--danger button--outline" onClick={() => removeQuestion(question)}>
+                    Remove
+                  </button>
                 </div>
               </div>
 
@@ -131,12 +135,6 @@ export default function Review() {
                 </h3>
               </div>
 
-              <div className="margin-bottom--md">
-                  <button className="button button--danger button--outline" onClick={() => removeQuestion(question)}>
-                    Remove
-                  </button>
-              </div>
-
               {/* Answers */}
               <div className="margin-bottom--md">
                 {question.answer.map((ans, answerIdx) => {
@@ -145,7 +143,7 @@ export default function Review() {
                   return (
                     <div
                       key={`answer-${question.quizIdx}-${question.questionIdx}-${answerIdx}`}
-                      className="margin-bottom--sm"
+                      className={`${answerIdx === question.answer.length - 1 ? "" : "margin-bottom--sm"}`}
                     >
                       <span className={isCorrect ? "text--success" : ""}>
                         {ans.text}
@@ -154,9 +152,6 @@ export default function Review() {
                   );
                 })}
               </div>
-
-              {/* Divider */}
-              <hr className="margin-top--lg margin-bottom--lg" />
             </div>
           ))}
         </div>
