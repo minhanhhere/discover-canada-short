@@ -147,7 +147,7 @@ export default function Review() {
                       key={`answer-${question.quizIdx}-${question.questionIdx}-${answerIdx}`}
                       className="margin-bottom--sm"
                     >
-                      <span className={isCorrect ? "text--success" : "text--secondary"}>
+                      <span className={isCorrect ? "text--success" : ""}>
                         {ans.text}
                       </span>
                     </div>
